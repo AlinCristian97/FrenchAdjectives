@@ -1,0 +1,246 @@
+﻿namespace FrenchAdjectives;
+
+public class Constants
+{
+    public const int NumberOfRandomExampleSentences = 3;
+    public const string Space = " ";
+    public const string LongDivider = "----------------------------------------";
+    public const string ShortDivider = "----";
+    public const string GuillemetOuvrant = "«";
+    public const string GuillemetFermant = "»";
+
+    public const string A = "a";
+    public const string B = "b";
+    public const string C = "c";
+    public const string D = "d";
+    public const string E = "e";
+    public const string F = "f";
+    public const string G = "g";
+    public const string H = "h";
+    public const string I = "i";
+    public const string J = "j";
+    public const string K = "k";
+    public const string L = "l";
+    public const string M = "m";
+    public const string N = "n";
+    public const string O = "o";
+    public const string P = "p";
+    public const string Q = "q";
+    public const string R = "r";
+    public const string S = "s";
+    public const string T = "t";
+    public const string U = "u";
+    public const string V = "v";
+    public const string W = "w";
+    public const string X = "x";
+    public const string Y = "y";
+    public const string Z = "z";
+
+    #region "A" Adjectives
+    public const string Adorable = "adorable";
+    public const string Agreable = "agréable";
+    public const string Aimable = "aimable";
+    public const string Amusant = "amusant";
+    public const string Ancien = "ancien";
+    #endregion
+
+    #region "B" Adjectives
+    public const string Blanc = "blanc";
+    public const string Blond = "blond";
+    public const string Boueux = "boueux";
+    public const string Brave = "brave";
+    public const string Brillant = "brillant";
+    #endregion
+
+    #region "C" Adjectives
+    public const string Calme = "calme";
+    public const string Chaud = "chaud";
+    public const string Cher = "cher";
+    public const string Court = "court";
+    public const string Cruel = "cruel";
+    #endregion
+
+    #region "D" Adjectives
+    public const string Dangereux = "dangereux";
+    public const string Delicat = "délicat";
+    public const string Difficile = "difficile";
+    public const string Drole = "drôle";
+    public const string Doux = "doux";
+    #endregion
+
+    #region "E" Adjectives
+    public const string Energique = "énergique";
+    public const string Enorme = "énorme";
+    public const string Epais = "épais";
+    public const string Etrange = "étrange";
+    public const string Evident = "évident";
+    #endregion
+
+    #region "F" Adjectives
+    public const string Facile = "facile";
+    public const string Faible = "faible";
+    public const string Fort = "fort";
+    public const string Frais = "frais";
+    public const string Frequent = "fréquent";
+    #endregion
+
+    #region "G" Adjectives
+    public const string Generueux = "généreux";
+    public const string Gentil = "gentil";
+    public const string Glacial = "glacial";
+    public const string Grand = "grand";
+    public const string Gros = "gros";
+    #endregion
+
+    #region "H" Adjectives
+    public const string Habile = "habile";
+    public const string Heureux = "heureux";
+    public const string Honnete = "honnête";
+    public const string Humain = "humain";
+    public const string Humide = "humide";
+    #endregion
+
+    #region "I" Adjectives
+    public const string Ideal = "idéal";
+    public const string Important = "important";
+    public const string Intelligent = "intelligent";
+    public const string Interessant = "intéressant";
+    public const string Isole = "isolé";
+    #endregion
+
+    #region "J" Adjectives
+    public const string Jeune = "jeune";
+    public const string Joli = "joli";
+    public const string Joyeux = "joyeux";
+    public const string Juste = "juste";
+    public const string Juteux = "juteux";
+    #endregion
+
+    #region "K" Adjectives
+    public const string Kaki = "kaki";
+    public const string Kitsch = "kitsch";
+    public const string Kitschable = "kitschable";
+    public const string Kilometrique = "kilométrique";
+    public const string Karmique = "karmique";
+    #endregion
+
+    #region "L" Adjectives
+    public const string Leger = "léger";
+    public const string Libre = "libre";
+    public const string Lisse = "lisse";
+    public const string Long = "long";
+    public const string Lumineux = "lumineux";
+    #endregion
+
+    #region "M" Adjectives
+    public const string Macho = "macho";
+    public const string Majeur = "majeur";
+    public const string Mechant = "méchant";
+    public const string Mignon = "mignon";
+    public const string Moderne = "moderne";
+    #endregion
+
+    #region "N" Adjectives
+    public const string Naturel = "naturel";
+    public const string Nerveux = "nerveux";
+    public const string Niais = "niais";
+    public const string Noir = "noir";
+    public const string Nouveau = "nouveau";
+    #endregion
+
+    #region "O" Adjectives
+    public const string Obscur = "obscur";
+    public const string Officiel = "officiel";
+    public const string Ordinaire = "ordinaire";
+    public const string Optimiste = "optimiste";
+    public const string Ouvert = "ouvert";
+    #endregion
+
+    #region "P" Adjectives
+    public const string Paisible = "paisible";
+    public const string Parfait = "parfait";
+    public const string Petit = "petit";
+    public const string Plein = "plein";
+    public const string Propre = "propre";
+    #endregion
+
+    #region "Q" Adjectives
+    public const string Quelconque = "quelconque";
+    public const string Querelleux = "querelleux";
+    public const string Questionnable = "questionnable";
+    public const string Quasi = "quasi";
+    public const string Quotidien = "quotidien";
+    #endregion
+
+    #region "R" Adjectives
+    public const string Rapide = "rapide";
+    public const string Rare = "rare";
+    public const string Riche = "riche";
+    public const string Rond = "rond";
+    public const string Rouge = "rouge";
+    #endregion
+
+    #region "S" Adjectives
+    public const string Simple = "simple";
+    public const string Sombre = "sombre";
+    public const string Solide = "solide";
+    public const string Sucre = "sucré";
+    public const string Sympathique = "sympathique";
+    #endregion
+
+    #region "T" Adjectives
+    public const string Tendre = "tendre";
+    public const string Tranquille = "tranquille";
+    public const string Translucide = "translucide";
+    public const string Transparent = "transparent";
+    public const string Triste = "triste";
+    #endregion
+
+    #region "U" Adjectives
+    public const string Unique = "unique";
+    public const string Urbain = "urbain";
+    public const string Urgent = "urgent";
+    public const string Usuel = "usuel";
+    public const string Utile = "utile";
+    #endregion
+
+    #region "V" Adjectives
+    public const string Vif = "vif";
+    public const string Vert = "vert";
+    public const string Vieux = "vieux";
+    public const string Vide = "vide";
+    public const string Volumineux = "volumineux";
+    #endregion
+
+    #region "W" Adjectives
+    public const string Walkyrien = "walkyrien";
+    public const string Warrant = "warrant";
+    public const string Web = "web";
+    public const string Western = "western";
+    public const string Witty = "witty";
+    #endregion
+
+    #region "X" Adjectives
+    public const string Xenophile = "xénophile";
+    public const string Xenophobe = "xénophobe";
+    public const string Xero = "xéro";
+    public const string Xylographique = "xylographique";
+    public const string Xylophonique = "xylophonique";
+    #endregion
+
+    #region "Y" Adjectives
+    public const string Yiddish = "yiddish";
+    public const string Yeuxlike = "yeuxlike";
+    public const string Yogaesque = "yogaesque";
+    public const string Youngish = "youngish";
+    public const string Yummy = "yummy";
+    #endregion
+
+    #region "Z" Adjectives
+    public const string Zele = "zélé";
+    public const string Zen = "zen";
+    public const string Zigzagant = "zigzagant";
+    public const string Zonal = "zonal";
+    public const string Zoologique = "zoologique";
+    #endregion
+}
