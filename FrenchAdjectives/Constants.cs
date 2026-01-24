@@ -68,6 +68,11 @@ public class Constants
     public const string Cher = "cher";
     public const string Court = "court";
     public const string Cruel = "cruel";
+    public const string Clair = "clair";
+    public const string Compliqué = "compliqué";
+    public const string Courageux = "courageux";
+    public const string Curieux = "curieux";
+    public const string Créatif = "créatif";
     #endregion
 
     #region "D" Adjectives

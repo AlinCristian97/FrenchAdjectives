@@ -42,6 +42,15 @@ namespace FrenchAdjectives
         public static readonly IReadOnlyList<string> C = new[]
         {
             Constants.Calme,
+            Constants.Chaud,
+            Constants.Cher,
+            Constants.Court,
+            Constants.Cruel,
+            Constants.Clair,
+            Constants.Compliqué,
+            Constants.Courageux,
+            Constants.Curieux,
+            Constants.Créatif
         };
 
         public static readonly IReadOnlyList<string> D = new[]
