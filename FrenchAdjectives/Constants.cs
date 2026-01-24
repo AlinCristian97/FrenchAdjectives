@@ -60,7 +60,6 @@ public class Constants
     public const string Bizarre = "bizarre";
     public const string Bon = "bon";
     public const string Bruyant = "bruyant";
-
     #endregion
 
     #region "C" Adjectives
