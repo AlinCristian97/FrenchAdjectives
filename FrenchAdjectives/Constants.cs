@@ -42,6 +42,11 @@ public class Constants
     public const string Aimable = "aimable";
     public const string Amusant = "amusant";
     public const string Ancien = "ancien";
+    public const string Attentionne = "attentionné";
+    public const string Audacieux = "audacieux";
+    public const string Affectionne = "affectueux";
+    public const string Admirable = "admirable";
+    public const string Authentique = "authentique";
     #endregion
 
     #region "B" Adjectives
