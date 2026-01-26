@@ -139,6 +139,20 @@ public class Constants
     public const string Intelligent = "intelligent";
     public const string Interessant = "intéressant";
     public const string Isole = "isolé";
+    public const string Impeccable = "impeccable";
+    public const string Imposant = "imposant";
+    public const string Incroyable = "incroyable";
+    public const string Indispensable = "indispensable";
+    public const string Inoubliable = "inoubliable";
+    public const string Insolite = "insolite";
+    public const string Inspirant = "inspirant";
+    public const string Intense = "intense";
+    public const string Intriguant = "intriguant";
+    public const string Invincible = "invincible";
+    public const string Irresistible = "irrésistible";
+    public const string Irritable = "irritable";
+    public const string Immateriel = "immatériel";
+    public const string Incassable = "incassable";
     #endregion
 
     #region "J" Adjectives
