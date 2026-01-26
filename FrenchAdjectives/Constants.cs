@@ -106,7 +106,6 @@ public class Constants
     public const string Etonnant = "étonnant";
     public const string Euphorique = "euphorique";
     public const string Evocateur = "évocateur";
-    public const string Elimee = "élimée";
     #endregion
 
     #region "F" Adjectives
@@ -214,6 +213,11 @@ public class Constants
     public const string Riche = "riche";
     public const string Rond = "rond";
     public const string Rouge = "rouge";
+    public const string Respectueux = "respectueux";
+    public const string Rude = "rude";
+    public const string Rationnel = "rationnel";
+    public const string Realiste = "réaliste";
+    public const string Recherché = "recherché";
     #endregion
 
     #region "S" Adjectives
