@@ -178,6 +178,7 @@ public class Constants
     public const string Petit = "petit";
     public const string Plein = "plein";
     public const string Propre = "propre";
+    public const string Pauvre = "pauvre";
     #endregion
 
     #region "Q" Adjectives
