@@ -86,8 +86,8 @@ public class Constants
     public const string Decisif = "décisif";
     public const string Defiant = "défiant";
     public const string Desirable = "désirable";
-    public const string Determiné = "déterminé";
-    public const string Devoué = "dévoué";
+    public const string Determine = "déterminé";
+    public const string Devoue = "dévoué";
     public const string Divin = "divin";
     public const string Domestique = "domestique";
     public const string Dramatique = "dramatique";
