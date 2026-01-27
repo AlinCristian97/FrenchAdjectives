@@ -81,6 +81,27 @@ public class Constants
     public const string Difficile = "difficile";
     public const string Drole = "drôle";
     public const string Doux = "doux";
+    public const string Durable = "durable";
+    public const string Dynamique = "dynamique";
+    public const string Decisif = "décisif";
+    public const string Defiant = "défiant";
+    public const string Desirable = "désirable";
+    public const string Determiné = "déterminé";
+    public const string Devoué = "dévoué";
+    public const string Divin = "divin";
+    public const string Domestique = "domestique";
+    public const string Dramatique = "dramatique";
+    public const string Diligent = "diligent";
+    public const string Discret = "discret";
+    public const string Distinctif = "distinctif";
+    public const string Distrayant = "distrayant";
+    public const string Documenté = "documenté";
+    public const string Dolent = "dolent";
+    public const string Douteux = "douteux";
+    public const string Draconien = "draconien";
+    public const string Dubitatif = "dubitatif";
+    public const string Dulcissime = "dulcissime";
+    public const string Disponible = "disponible";
     #endregion
 
     #region "E" Adjectives
