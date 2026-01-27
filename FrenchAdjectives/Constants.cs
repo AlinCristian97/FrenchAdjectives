@@ -185,6 +185,14 @@ public class Constants
     public const string Mechant = "méchant";
     public const string Mignon = "mignon";
     public const string Moderne = "moderne";
+    public const string Mouille = "mouillé";
+    public const string Mysterieux = "mystérieux";
+    public const string Magnifique = "magnifique";
+    public const string Majestueux = "majestueux";
+    public const string Memorable = "mémorable";
+    public const string Minuscule = "minuscule";
+    public const string Monumental = "monumental";
+    public const string Magique = "magique";
     #endregion
 
     #region "N" Adjectives
