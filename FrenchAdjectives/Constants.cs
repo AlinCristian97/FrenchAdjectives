@@ -240,6 +240,16 @@ public class Constants
     public const string Solide = "solide";
     public const string Sucre = "sucré";
     public const string Sympathique = "sympathique";
+    public const string Serein = "serein";
+    public const string Silencieux = "silencieux";
+    public const string Souple = "souple";
+    public const string Sportif = "sportif";
+    public const string Stable = "stable";
+    public const string Style = "stylé";
+    public const string Suave = "suave";
+    public const string Satisfaisant = "satisfaisant";
+    public const string Scintillant = "scintillant";
+    public const string Seduisant = "séduisant";
     #endregion
 
     #region "T" Adjectives
