@@ -251,6 +251,8 @@ public class Constants
     public const string Plein = "plein";
     public const string Propre = "propre";
     public const string Pauvre = "pauvre";
+    public const string Prochain = "prochain";
+    public const string Pret = "prêt";
     #endregion
 
     #region "Q" Adjectives
