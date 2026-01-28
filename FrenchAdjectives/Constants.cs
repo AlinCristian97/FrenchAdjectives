@@ -60,6 +60,7 @@ public class Constants
     public const string Bienveillant = "bienveillant";
     public const string Bizarre = "bizarre";
     public const string Bon = "bon";
+    public const string Bonne = "bonne";
     public const string Bruyant = "bruyant";
     #endregion
 
