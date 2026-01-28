@@ -111,6 +111,8 @@ public class Constants
     #region "E" Adjectives
     public const string Energique = "énergique";
     public const string Enorme = "énorme";
+    public const string Excité = "excité";
+    public const string Excitée = "excitée";
     public const string Epais = "épais";
     public const string Etrange = "étrange";
     public const string Evident = "évident";
