@@ -103,6 +103,8 @@ public class Constants
     public const string Dubitatif = "dubitatif";
     public const string Dulcissime = "dulcissime";
     public const string Disponible = "disponible";
+    public const string Desireux = "désireux";
+    public const string Desireuse = "désireuse";
     #endregion
 
     #region "E" Adjectives
