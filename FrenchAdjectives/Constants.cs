@@ -296,6 +296,8 @@ public class Constants
     public const string Translucide = "translucide";
     public const string Transparent = "transparent";
     public const string Triste = "triste";
+    public const string Termine = "terminé";
+    public const string Terminee = "terminée";
     #endregion
 
     #region "U" Adjectives
