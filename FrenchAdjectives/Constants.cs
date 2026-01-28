@@ -73,6 +73,7 @@ public class Constants
     public const string Courageux = "courageux";
     public const string Curieux = "curieux";
     public const string Créatif = "créatif";
+    public const string Contente = "contente";
     #endregion
 
     #region "D" Adjectives
