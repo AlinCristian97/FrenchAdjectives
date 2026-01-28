@@ -47,6 +47,7 @@ public class Constants
     public const string Affectionne = "affectueux";
     public const string Admirable = "admirable";
     public const string Authentique = "authentique";
+    public const string Autre = "autre";
     #endregion
 
     #region "B" Adjectives
