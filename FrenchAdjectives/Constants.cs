@@ -48,6 +48,8 @@ public class Constants
     public const string Admirable = "admirable";
     public const string Authentique = "authentique";
     public const string Autre = "autre";
+    public const string Americain = "américain";
+    public const string Anglais = "anglais";
     #endregion
 
     #region "B" Adjectives
@@ -134,6 +136,7 @@ public class Constants
     public const string Etonnant = "étonnant";
     public const string Euphorique = "euphorique";
     public const string Evocateur = "évocateur";
+    public const string Espagnol = "espagnol";
     #endregion
 
     #region "F" Adjectives
@@ -143,6 +146,7 @@ public class Constants
     public const string Fort = "fort";
     public const string Frais = "frais";
     public const string Frequent = "fréquent";
+    public const string Francais = "français";
     #endregion
 
     #region "G" Adjectives
@@ -221,6 +225,7 @@ public class Constants
     public const string Minuscule = "minuscule";
     public const string Monumental = "monumental";
     public const string Magique = "magique";
+    public const string Mexicain = "mexicain";
     #endregion
 
     #region "N" Adjectives
