@@ -285,6 +285,7 @@ public class Constants
     public const string Satisfaisant = "satisfaisant";
     public const string Scintillant = "scintillant";
     public const string Seduisant = "séduisant";
+    public const string Super = "super";
     #endregion
 
     #region "T" Adjectives
