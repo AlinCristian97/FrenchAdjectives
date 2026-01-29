@@ -316,6 +316,7 @@ public class Constants
 
     #region "S" Adjectives
     public const string Simple = "simple";
+    public const string Special = "spécial";
     public const string Sombre = "sombre";
     public const string Solide = "solide";
     public const string Sucre = "sucré";
@@ -348,6 +349,7 @@ public class Constants
     public const string Systématique = "systématique";
     public const string Satisfait = "satisfait";
     public const string Sponsorise = "sponsorisé";
+    public const string Strict = "strict";
     #endregion
 
     #region "T" Adjectives
