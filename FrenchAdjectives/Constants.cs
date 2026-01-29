@@ -316,6 +316,7 @@ public class Constants
 
     #region "S" Adjectives
     public const string Simple = "simple";
+    public const string Sur = "sûr";
     public const string Special = "spécial";
     public const string Sombre = "sombre";
     public const string Solide = "solide";
