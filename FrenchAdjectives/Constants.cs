@@ -236,6 +236,7 @@ public class Constants
     public const string Niais = "niais";
     public const string Noir = "noir";
     public const string Nouveau = "nouveau";
+    public const string Nouvelle = "nouvelle";
     #endregion
 
     #region "O" Adjectives
