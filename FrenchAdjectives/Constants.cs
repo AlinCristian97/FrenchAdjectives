@@ -50,6 +50,7 @@ public class Constants
     public const string Autre = "autre";
     public const string Americain = "américain";
     public const string Anglais = "anglais";
+    public const string Arrete = "arrêté";
     #endregion
 
     #region "B" Adjectives
@@ -211,6 +212,9 @@ public class Constants
     public const string Lisse = "lisse";
     public const string Long = "long";
     public const string Lumineux = "lumineux";
+    public const string Loyal = "loyal";
+    public const string Lourd = "lourd";
+    public const string Limite = "limité";
     #endregion
 
     #region "M" Adjectives
