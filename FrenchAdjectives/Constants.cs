@@ -260,6 +260,31 @@ public class Constants
     public const string Pauvre = "pauvre";
     public const string Prochain = "prochain";
     public const string Pret = "prêt";
+    public const string Precieux = "précieux";
+    public const string Precaire = "précaire";
+    public const string Preemptif = "préemptif";
+    public const string Prehistorique = "préhistorique";
+    public const string Prejudiciable = "préjudiciable";
+    public const string Preliminaire = "préliminaire";
+    public const string Prenatal = "prénatal";
+    public const string Prescient = "préscient";
+    public const string Prestigieux = "prestigieux";
+    public const string Primitif = "primitif";
+    public const string Privilegie = "privilégié";
+    public const string Probable = "probable";
+    public const string Prodigieux = "prodigieux";
+    public const string Profond = "profond";
+    public const string Prolifique = "prolifique";
+    public const string Prudent = "prudent";
+    public const string Pugnace = "pugnace";
+    public const string Puissant = "puissant";
+    public const string Pittoresque = "pittoresque";
+    public const string Pluvieux = "pluvieux";
+    public const string Polyvalent = "polyvalent";
+    public const string Ponderé = "pondéré";
+    public const string Portatif = "portatif";
+    public const string Posthume = "posthume";
+    public const string Prefere = "préféré";
     #endregion
 
     #region "Q" Adjectives
