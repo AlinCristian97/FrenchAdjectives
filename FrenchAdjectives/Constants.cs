@@ -193,6 +193,7 @@ public class Constants
     #region "J" Adjectives
     public const string Jeune = "jeune";
     public const string Joli = "joli";
+    public const string Japonais = "japonais";
     public const string Joyeux = "joyeux";
     public const string Juste = "juste";
     public const string Juteux = "juteux";
