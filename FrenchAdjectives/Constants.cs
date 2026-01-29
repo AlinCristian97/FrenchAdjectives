@@ -281,7 +281,9 @@ public class Constants
     public const string Rude = "rude";
     public const string Rationnel = "rationnel";
     public const string Realiste = "réaliste";
-    public const string Recherché = "recherché";
+    public const string Recherche = "recherché";
+    public const string Recommande = "recommandé";
+    public const string Redoutable = "redoutable";
     #endregion
 
     #region "S" Adjectives
