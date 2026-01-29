@@ -284,6 +284,9 @@ public class Constants
     public const string Recherche = "recherché";
     public const string Recommande = "recommandé";
     public const string Redoutable = "redoutable";
+    public const string Refroidi = "refroidi";
+    public const string Regulier = "régulier";
+    public const string Renouvelé = "renouvelé";
     #endregion
 
     #region "S" Adjectives
