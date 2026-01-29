@@ -239,6 +239,7 @@ public class Constants
     public const string Naturel = "naturel";
     public const string Nerveux = "nerveux";
     public const string Niais = "niais";
+    public const string Neuf = "neuf";
     public const string Noir = "noir";
     public const string Nouveau = "nouveau";
     public const string Nouvelle = "nouvelle";
