@@ -332,6 +332,22 @@ public class Constants
     public const string Seduisant = "séduisant";
     public const string Super = "super";
     public const string Soulagé = "soulagé";
+    public const string Sceptique = "sceptique";
+    public const string Scientifique = "scientifique";
+    public const string Scrupuleux = "scrupuleux";
+    public const string Sensationnel = "sensationnel";
+    public const string Sensible = "sensible";
+    public const string Sentimental = "sentimental";
+    public const string Solennel = "solennel";
+    public const string Somptueux = "somptueux";
+    public const string Spontane = "spontané";
+    public const string Stupéfiant = "stupéfiant";
+    public const string Subtil = "subtil";
+    public const string Suggeré = "suggéré";
+    public const string Surprenant = "surprenant";
+    public const string Systématique = "systématique";
+    public const string Satisfait = "satisfait";
+    public const string Sponsorise = "sponsorisé";
     #endregion
 
     #region "T" Adjectives
