@@ -250,6 +250,7 @@ public class Constants
     #region "O" Adjectives
     public const string Obscur = "obscur";
     public const string Officiel = "officiel";
+    public const string Orale = "orale";
     public const string Ordinaire = "ordinaire";
     public const string Optimiste = "optimiste";
     public const string Ouvert = "ouvert";
