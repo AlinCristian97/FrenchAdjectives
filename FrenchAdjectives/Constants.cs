@@ -145,6 +145,7 @@ public class Constants
     #region "F" Adjectives
     public const string Facile = "facile";
     public const string Faible = "faible";
+    public const string Formel = "formel";
     public const string Fatigue = "fatigué";
     public const string Fort = "fort";
     public const string Frais = "frais";
