@@ -256,6 +256,7 @@ public class Constants
 
     #region "P" Adjectives
     public const string Paisible = "paisible";
+    public const string Parle = "parlé";
     public const string Parfait = "parfait";
     public const string Petit = "petit";
     public const string Plein = "plein";
