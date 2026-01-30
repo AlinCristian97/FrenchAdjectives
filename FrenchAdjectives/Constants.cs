@@ -116,6 +116,7 @@ public class Constants
     #region "E" Adjectives
     public const string Energique = "énergique";
     public const string Enorme = "énorme";
+    public const string Ecrit = "écrit";
     public const string Excité = "excité";
     public const string Excitée = "excitée";
     public const string Epais = "épais";
@@ -301,6 +302,7 @@ public class Constants
     #region "R" Adjectives
     public const string Rapide = "rapide";
     public const string Rare = "rare";
+    public const string Reserve = "réservé";
     public const string Riche = "riche";
     public const string Rond = "rond";
     public const string Rouge = "rouge";
