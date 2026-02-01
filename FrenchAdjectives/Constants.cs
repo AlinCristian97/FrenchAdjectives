@@ -223,6 +223,7 @@ public class Constants
 
     #region "L" Adjectives
     public const string Leger = "léger";
+    public const string Lamentable = "lamentable";
     public const string Lointain = "lointain";
     public const string Libre = "libre";
     public const string Lisse = "lisse";
@@ -234,6 +235,7 @@ public class Constants
     #endregion
 
     #region "M" Adjectives
+    public const string Meme = "même";
     public const string Macho = "macho";
     public const string Medical = "médical";
     public const string Majeur = "majeur";
@@ -272,6 +274,7 @@ public class Constants
 
     #region "P" Adjectives
     public const string Paisible = "paisible";
+    public const string Pareil = "pareil";
     public const string Parle = "parlé";
     public const string Parfait = "parfait";
     public const string Petit = "petit";
@@ -338,6 +341,7 @@ public class Constants
     #endregion
 
     #region "S" Adjectives
+    public const string Servile = "servile";
     public const string Sournoise = "sournoise";
     public const string Simple = "simple";
     public const string Sur = "sûr";
