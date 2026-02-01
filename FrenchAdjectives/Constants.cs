@@ -71,6 +71,7 @@ public class Constants
     #endregion
 
     #region "C" Adjectives
+    public const string Critique = "critique";
     public const string Calme = "calme";
     public const string Complet = "complet";
     public const string Chaud = "chaud";
