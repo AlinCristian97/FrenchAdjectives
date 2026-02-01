@@ -149,6 +149,8 @@ public class Constants
     #endregion
 
     #region "F" Adjectives
+    public const string Fidele = "fidèle";
+    public const string Fantaisiste = "fantaisiste";
     public const string Facile = "facile";
     public const string Faible = "faible";
     public const string Formel = "formel";
@@ -312,6 +314,8 @@ public class Constants
     #endregion
 
     #region "R" Adjectives
+    public const string Regional = "régional";
+    public const string Raffine = "raffiné";
     public const string Rapide = "rapide";
     public const string Rare = "rare";
     public const string Reserve = "réservé";
@@ -331,6 +335,7 @@ public class Constants
     #endregion
 
     #region "S" Adjectives
+    public const string Sournoise = "sournoise";
     public const string Simple = "simple";
     public const string Sur = "sûr";
     public const string Special = "spécial";
@@ -370,6 +375,7 @@ public class Constants
     #endregion
 
     #region "T" Adjectives
+    public const string Tentante = "tentante";
     public const string Torve = "torve";
     public const string Tendre = "tendre";
     public const string Tranquille = "tranquille";
@@ -395,6 +401,7 @@ public class Constants
     public const string Vieux = "vieux";
     public const string Vide = "vide";
     public const string Volumineux = "volumineux";
+    public const string Vieille = "vieille";
     #endregion
 
     #region "W" Adjectives
