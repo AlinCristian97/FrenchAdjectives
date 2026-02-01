@@ -181,6 +181,7 @@ public class Constants
     #endregion
 
     #region "I" Adjectives
+    public const string Inoffensif = "inoffensif";
     public const string Ideal = "idéal";
     public const string Important = "important";
     public const string Intelligent = "intelligent";
