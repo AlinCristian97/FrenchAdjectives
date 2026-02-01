@@ -50,12 +50,15 @@ public class Constants
     public const string Autre = "autre";
     public const string Americain = "américain";
     public const string Anglais = "anglais";
+    public const string Abbandoned = "abbandoned";
     public const string Arrete = "arrêté";
     #endregion
 
     #region "B" Adjectives
     public const string Blanc = "blanc";
     public const string Blond = "blond";
+    public const string Brun = "brun";
+    public const string Bleu = "bleu";
     public const string Boueux = "boueux";
     public const string Brave = "brave";
     public const string Brillant = "brillant";
@@ -69,6 +72,7 @@ public class Constants
 
     #region "C" Adjectives
     public const string Calme = "calme";
+    public const string Complet = "complet";
     public const string Chaud = "chaud";
     public const string Cher = "cher";
     public const string Court = "court";
@@ -84,6 +88,7 @@ public class Constants
 
     #region "D" Adjectives
     public const string Dangereux = "dangereux";
+    public const string Droite = "droite";
     public const string Delicat = "délicat";
     public const string Difficile = "difficile";
     public const string Drole = "drôle";
@@ -156,6 +161,7 @@ public class Constants
 
     #region "G" Adjectives
     public const string Generueux = "généreux";
+    public const string Gauche = "gauche";
     public const string Gentil = "gentil";
     public const string Glacial = "glacial";
     public const string Grand = "grand";
@@ -211,6 +217,7 @@ public class Constants
 
     #region "L" Adjectives
     public const string Leger = "léger";
+    public const string Lointain = "lointain";
     public const string Libre = "libre";
     public const string Lisse = "lisse";
     public const string Long = "long";
