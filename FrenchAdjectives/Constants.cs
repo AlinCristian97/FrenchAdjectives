@@ -83,6 +83,7 @@ public class Constants
     public const string Curieux = "curieux";
     public const string Créatif = "créatif";
     public const string Content = "content";
+    public const string Complexe = "complexe";
     public const string Chaque = "chaque";
     #endregion
 
