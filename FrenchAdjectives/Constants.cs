@@ -186,6 +186,7 @@ public class Constants
     public const string Important = "important";
     public const string Intelligent = "intelligent";
     public const string Interessant = "intéressant";
+    public const string Improbable = "improbable";
     public const string Isole = "isolé";
     public const string Impeccable = "impeccable";
     public const string Imposant = "imposant";
