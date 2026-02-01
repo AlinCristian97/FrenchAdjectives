@@ -230,6 +230,7 @@ public class Constants
 
     #region "M" Adjectives
     public const string Macho = "macho";
+    public const string Medical = "médical";
     public const string Majeur = "majeur";
     public const string Mechant = "méchant";
     public const string Mignon = "mignon";
@@ -369,6 +370,7 @@ public class Constants
     #endregion
 
     #region "T" Adjectives
+    public const string Torve = "torve";
     public const string Tendre = "tendre";
     public const string Tranquille = "tranquille";
     public const string Translucide = "translucide";
@@ -388,6 +390,7 @@ public class Constants
 
     #region "V" Adjectives
     public const string Vif = "vif";
+    public const string Verrouille = "verrouillé";
     public const string Vert = "vert";
     public const string Vieux = "vieux";
     public const string Vide = "vide";
