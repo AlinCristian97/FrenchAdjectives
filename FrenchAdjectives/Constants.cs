@@ -39,6 +39,7 @@ public class Constants
     #region "A" Adjectives
     public const string Adorable = "adorable";
     public const string Agreable = "agréable";
+    public const string Attentif = "attentif";
     public const string Aimable = "aimable";
     public const string Amusant = "amusant";
     public const string Ancien = "ancien";
@@ -71,6 +72,7 @@ public class Constants
     #endregion
 
     #region "C" Adjectives
+    public const string Certain = "certain";
     public const string Critique = "critique";
     public const string Calme = "calme";
     public const string Complet = "complet";
@@ -236,6 +238,7 @@ public class Constants
     #endregion
 
     #region "M" Adjectives
+    public const string Moindre = "moindre";
     public const string Meme = "même";
     public const string Macho = "macho";
     public const string Medical = "médical";
