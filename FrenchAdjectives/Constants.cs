@@ -56,6 +56,7 @@ public class Constants
     #endregion
 
     #region "B" Adjectives
+    public const string Bouillonnant = "bouillonnant";
     public const string Blanc = "blanc";
     public const string Blond = "blond";
     public const string Brun = "brun";
