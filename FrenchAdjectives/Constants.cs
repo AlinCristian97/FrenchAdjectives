@@ -92,6 +92,7 @@ public class Constants
     #endregion
 
     #region "D" Adjectives
+    public const string Docile = "docile";
     public const string Dangereux = "dangereux";
     public const string Droite = "droite";
     public const string Delicat = "délicat";
@@ -259,6 +260,7 @@ public class Constants
     #endregion
 
     #region "N" Adjectives
+    public const string Necessaire = "nécessaire";
     public const string Naturel = "naturel";
     public const string Nerveux = "nerveux";
     public const string Niais = "niais";
