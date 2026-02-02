@@ -94,6 +94,7 @@ public class Constants
     public const string Delicat = "délicat";
     public const string Difficile = "difficile";
     public const string Drole = "drôle";
+    public const string Different = "different";
     public const string Doux = "doux";
     public const string Durable = "durable";
     public const string Dynamique = "dynamique";
