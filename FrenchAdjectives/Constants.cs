@@ -154,6 +154,7 @@ public class Constants
     public const string Etonnant = "étonnant";
     public const string Euphorique = "euphorique";
     public const string Evocateur = "évocateur";
+    public const string Extravagant = "extravagant";
     public const string Espagnol = "espagnol";
     #endregion
 
