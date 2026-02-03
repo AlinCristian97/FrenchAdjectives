@@ -417,6 +417,7 @@ public class Constants
     #endregion
 
     #region "V" Adjectives
+    public const string Veritable = "veritable";
     public const string Vrai = "vrai";
     public const string Vif = "vif";
     public const string Verrouille = "verrouillé";
