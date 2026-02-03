@@ -156,6 +156,7 @@ public class Constants
     #endregion
 
     #region "F" Adjectives
+    public const string Faux = "faux";
     public const string Furtif = "furtif";
     public const string Fidele = "fidèle";
     public const string Fantaisiste = "fantaisiste";
@@ -413,6 +414,7 @@ public class Constants
     #endregion
 
     #region "V" Adjectives
+    public const string Vrai = "vrai";
     public const string Vif = "vif";
     public const string Verrouille = "verrouillé";
     public const string Vert = "vert";
