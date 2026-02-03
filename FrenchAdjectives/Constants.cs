@@ -156,6 +156,7 @@ public class Constants
     #endregion
 
     #region "F" Adjectives
+    public const string Furtif = "furtif";
     public const string Fidele = "fidèle";
     public const string Fantaisiste = "fantaisiste";
     public const string Facile = "facile";
