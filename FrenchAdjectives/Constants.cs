@@ -247,6 +247,7 @@ public class Constants
     #endregion
 
     #region "M" Adjectives
+    public const string Meconnu = "méconnu";
     public const string Mince = "mince";
     public const string Muet = "muet";
     public const string Moindre = "moindre";
@@ -337,6 +338,7 @@ public class Constants
     #endregion
 
     #region "R" Adjectives
+    public const string Rich = "rich";
     public const string Regional = "régional";
     public const string Raffine = "raffiné";
     public const string Rapide = "rapide";
