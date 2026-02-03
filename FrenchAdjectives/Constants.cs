@@ -247,6 +247,7 @@ public class Constants
     #endregion
 
     #region "M" Adjectives
+    public const string Mince = "mince";
     public const string Muet = "muet";
     public const string Moindre = "moindre";
     public const string Meme = "même";
