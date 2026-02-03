@@ -73,6 +73,7 @@ public class Constants
     #endregion
 
     #region "C" Adjectives
+    public const string Convulsif = "convulsif";
     public const string Certain = "certain";
     public const string Critique = "critique";
     public const string Calme = "calme";
@@ -186,6 +187,7 @@ public class Constants
     #endregion
 
     #region "I" Adjectives
+    public const string Incapable = "incapable";
     public const string Inoffensif = "inoffensif";
     public const string Ideal = "idéal";
     public const string Important = "important";
@@ -280,6 +282,7 @@ public class Constants
     #endregion
 
     #region "P" Adjectives
+    public const string Pale = "pâle";
     public const string Paisible = "paisible";
     public const string Pareil = "pareil";
     public const string Parle = "parlé";
