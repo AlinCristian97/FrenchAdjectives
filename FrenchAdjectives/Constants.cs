@@ -363,6 +363,7 @@ public class Constants
     #endregion
 
     #region "S" Adjectives
+    public const string Soigneux = "soigneux";
     public const string Supportable = "supportable";
     public const string Servile = "servile";
     public const string Sournoise = "sournoise";
