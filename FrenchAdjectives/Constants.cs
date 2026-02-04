@@ -74,6 +74,7 @@ public class Constants
     #endregion
 
     #region "C" Adjectives
+    public const string Celebre = "célèbre";
     public const string Convulsif = "convulsif";
     public const string Certain = "certain";
     public const string Critique = "critique";
@@ -159,6 +160,7 @@ public class Constants
     #endregion
 
     #region "F" Adjectives
+    public const string Fascinant = "fascinant";
     public const string Faux = "faux";
     public const string Furtif = "furtif";
     public const string Fidele = "fidèle";
@@ -192,6 +194,7 @@ public class Constants
     #endregion
 
     #region "I" Adjectives
+    public const string Insupportable = "insupportable";
     public const string Incapable = "incapable";
     public const string Inoffensif = "inoffensif";
     public const string Ideal = "idéal";
@@ -360,6 +363,7 @@ public class Constants
     #endregion
 
     #region "S" Adjectives
+    public const string Supportable = "supportable";
     public const string Servile = "servile";
     public const string Sournoise = "sournoise";
     public const string Simple = "simple";
@@ -401,6 +405,7 @@ public class Constants
     #endregion
 
     #region "T" Adjectives
+    public const string Technique = "technique";
     public const string Tentante = "tentante";
     public const string Torve = "torve";
     public const string Tendre = "tendre";
