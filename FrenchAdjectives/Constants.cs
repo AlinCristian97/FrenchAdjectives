@@ -37,6 +37,7 @@ public class Constants
     public const string Z = "z";
 
     #region "A" Adjectives
+    public const string Ambiant = "ambiant";
     public const string Amer = "amer";
     public const string Adorable = "adorable";
     public const string Agreable = "agréable";
@@ -74,6 +75,7 @@ public class Constants
     #endregion
 
     #region "C" Adjectives
+    public const string Cense = "censé";
     public const string Celebre = "célèbre";
     public const string Convulsif = "convulsif";
     public const string Certain = "certain";
@@ -129,6 +131,7 @@ public class Constants
     #endregion
 
     #region "E" Adjectives
+    public const string Environnant = "environnant";
     public const string Egale = "égale";
     public const string Energique = "énergique";
     public const string Enorme = "énorme";
@@ -194,6 +197,8 @@ public class Constants
     #endregion
 
     #region "I" Adjectives
+    public const string Inhabituel = "inhabituel";
+    public const string Inintelligible = "inintelligible";
     public const string Insupportable = "insupportable";
     public const string Incapable = "incapable";
     public const string Inoffensif = "inoffensif";
@@ -284,6 +289,7 @@ public class Constants
     #endregion
 
     #region "O" Adjectives
+    public const string Optimal = "optimal";
     public const string Obscur = "obscur";
     public const string Officiel = "officiel";
     public const string Orale = "orale";
@@ -363,6 +369,9 @@ public class Constants
     #endregion
 
     #region "S" Adjectives
+    public const string Sinistre = "sinistre";
+    public const string Splendide = "splendide";
+    public const string Sense = "sensé";
     public const string Soigneux = "soigneux";
     public const string Supportable = "supportable";
     public const string Servile = "servile";
@@ -384,6 +393,7 @@ public class Constants
     public const string Satisfaisant = "satisfaisant";
     public const string Scintillant = "scintillant";
     public const string Seduisant = "séduisant";
+    public const string Symbolic = "symbolic";
     public const string Super = "super";
     public const string Soulagé = "soulagé";
     public const string Sceptique = "sceptique";
