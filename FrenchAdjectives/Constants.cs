@@ -250,6 +250,7 @@ public class Constants
     #endregion
 
     #region "L" Adjectives
+    public const string Logique = "logique";
     public const string Levant = "levant";
     public const string Leger = "léger";
     public const string Lamentable = "lamentable";
@@ -382,6 +383,7 @@ public class Constants
     public const string Refroidi = "refroidi";
     public const string Regulier = "régulier";
     public const string Renouvelé = "renouvelé";
+    public const string Renversante = "renversante";
     #endregion
 
     #region "S" Adjectives
