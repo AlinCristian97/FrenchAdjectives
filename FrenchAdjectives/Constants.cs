@@ -37,6 +37,7 @@ public class Constants
     public const string Z = "z";
 
     #region "A" Adjectives
+    public const string Contextuelle = "contextuelle";
     public const string Abject = "abject";
     public const string Ambiant = "ambiant";
     public const string Amer = "amer";
@@ -101,6 +102,7 @@ public class Constants
     #endregion
 
     #region "D" Adjectives
+    public const string Desole = "désolé";
     public const string Depenaille = "dépenaillé";    
     public const string Docile = "docile";
     public const string Dangereux = "dangereux";
@@ -136,6 +138,7 @@ public class Constants
     #endregion
 
     #region "E" Adjectives
+    public const string Extreme = "extrême";
     public const string Environnant = "environnant";
     public const string Egale = "égale";
     public const string Energique = "énergique";
@@ -168,6 +171,7 @@ public class Constants
     #endregion
 
     #region "F" Adjectives
+    public const string Fou = "fou";
     public const string Fichu = "fichu";
     public const string Final = "final";
     public const string Fascinant = "fascinant";
@@ -196,6 +200,7 @@ public class Constants
     #endregion
 
     #region "H" Adjectives
+    public const string Hautain = "hautain";
     public const string Habile = "habile";
     public const string Heureux = "heureux";
     public const string Honnete = "honnête";
@@ -265,6 +270,7 @@ public class Constants
     #endregion
 
     #region "M" Adjectives
+    public const string Malsaine = "malsaine";
     public const string Minimal = "minimal";
     public const string Mortel = "mortel";
     public const string Moribond = "moribond";
