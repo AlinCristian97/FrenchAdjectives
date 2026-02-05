@@ -91,6 +91,7 @@ public class Constants
     public const string Cruel = "cruel";
     public const string Clair = "clair";
     public const string Compliqué = "compliqué";
+    public const string Celibataire = "célibataire";
     public const string Courageux = "courageux";
     public const string Curieux = "curieux";
     public const string Créatif = "créatif";
@@ -100,6 +101,7 @@ public class Constants
     #endregion
 
     #region "D" Adjectives
+    public const string Depenaille = "dépenaillé";    
     public const string Docile = "docile";
     public const string Dangereux = "dangereux";
     public const string Droite = "droite";
@@ -202,6 +204,7 @@ public class Constants
     #endregion
 
     #region "I" Adjectives
+    public const string Impressionnant = "impressionnant";
     public const string Inhabituel = "inhabituel";
     public const string Inintelligible = "inintelligible";
     public const string Insupportable = "insupportable";
@@ -247,6 +250,7 @@ public class Constants
     #endregion
 
     #region "L" Adjectives
+    public const string Levant = "levant";
     public const string Leger = "léger";
     public const string Lamentable = "lamentable";
     public const string Lointain = "lointain";
@@ -286,6 +290,7 @@ public class Constants
     #endregion
 
     #region "N" Adjectives
+    public const string Negligent = "négligent";
     public const string Necessaire = "nécessaire";
     public const string Naturel = "naturel";
     public const string Nerveux = "nerveux";
@@ -380,6 +385,8 @@ public class Constants
     #endregion
 
     #region "S" Adjectives
+    public const string Soigne = "soigné";
+    public const string Seul = "seul";
     public const string Specifique = "spécifique";
     public const string Sinistre = "sinistre";
     public const string Splendide = "splendide";
@@ -392,6 +399,7 @@ public class Constants
     public const string Sur = "sûr";
     public const string Special = "spécial";
     public const string Sombre = "sombre";
+    public const string Sacré = "sacré";
     public const string Solide = "solide";
     public const string Sucre = "sucré";
     public const string Sympathique = "sympathique";
@@ -428,6 +436,8 @@ public class Constants
     #endregion
 
     #region "T" Adjectives
+    public const string Theatral = "théâtral";
+    public const string Taciturne = "taciturne";
     public const string Technique = "technique";
     public const string Tentante = "tentante";
     public const string Torve = "torve";
@@ -449,6 +459,7 @@ public class Constants
     #endregion
 
     #region "V" Adjectives
+    public const string Verdatre = "verdâtre";
     public const string Violent = "violent";
     public const string Veritable = "veritable";
     public const string Vrai = "vrai";
