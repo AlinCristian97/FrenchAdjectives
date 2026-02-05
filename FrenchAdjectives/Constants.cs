@@ -260,6 +260,8 @@ public class Constants
     #endregion
 
     #region "M" Adjectives
+    public const string Minimal = "minimal";
+    public const string Mortel = "mortel";
     public const string Moribond = "moribond";
     public const string Meconnu = "méconnu";
     public const string Mince = "mince";
@@ -305,6 +307,8 @@ public class Constants
     #endregion
 
     #region "P" Adjectives
+    public const string Pourris = "pourris";
+    public const string Proche = "proche";
     public const string Pire = "pire";
     public const string Pale = "pâle";
     public const string Paisible = "paisible";
@@ -376,6 +380,7 @@ public class Constants
     #endregion
 
     #region "S" Adjectives
+    public const string Specifique = "spécifique";
     public const string Sinistre = "sinistre";
     public const string Splendide = "splendide";
     public const string Sense = "sensé";
