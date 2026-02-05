@@ -37,6 +37,7 @@ public class Constants
     public const string Z = "z";
 
     #region "A" Adjectives
+    public const string Abject = "abject";
     public const string Ambiant = "ambiant";
     public const string Amer = "amer";
     public const string Adorable = "adorable";
@@ -58,6 +59,7 @@ public class Constants
     #endregion
 
     #region "B" Adjectives
+    public const string Brutal = "brutal";
     public const string Bouillonnant = "bouillonnant";
     public const string Blanc = "blanc";
     public const string Blond = "blond";
@@ -75,6 +77,7 @@ public class Constants
     #endregion
 
     #region "C" Adjectives
+    public const string Crasseux = "crasseux";
     public const string Cense = "censé";
     public const string Celebre = "célèbre";
     public const string Convulsif = "convulsif";
@@ -163,6 +166,8 @@ public class Constants
     #endregion
 
     #region "F" Adjectives
+    public const string Fichu = "fichu";
+    public const string Final = "final";
     public const string Fascinant = "fascinant";
     public const string Faux = "faux";
     public const string Furtif = "furtif";
@@ -255,6 +260,7 @@ public class Constants
     #endregion
 
     #region "M" Adjectives
+    public const string Moribond = "moribond";
     public const string Meconnu = "méconnu";
     public const string Mince = "mince";
     public const string Muet = "muet";
@@ -299,6 +305,7 @@ public class Constants
     #endregion
 
     #region "P" Adjectives
+    public const string Pire = "pire";
     public const string Pale = "pâle";
     public const string Paisible = "paisible";
     public const string Pareil = "pareil";
@@ -437,6 +444,7 @@ public class Constants
     #endregion
 
     #region "V" Adjectives
+    public const string Violent = "violent";
     public const string Veritable = "veritable";
     public const string Vrai = "vrai";
     public const string Vif = "vif";
