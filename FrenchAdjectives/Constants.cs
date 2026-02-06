@@ -78,6 +78,7 @@ public class Constants
     #endregion
 
     #region "C" Adjectives
+    public const string Corrompu = "corrompu";
     public const string Crasseux = "crasseux";
     public const string Cense = "censé";
     public const string Celebre = "célèbre";
@@ -206,9 +207,12 @@ public class Constants
     public const string Honnete = "honnête";
     public const string Humain = "humain";
     public const string Humide = "humide";
+    public const string Haute = "haute";
     #endregion
 
     #region "I" Adjectives
+    public const string Invisible = "invisible";
+    public const string Infernal = "infernal";
     public const string Impressionnant = "impressionnant";
     public const string Inhabituel = "inhabituel";
     public const string Inintelligible = "inintelligible";
@@ -297,6 +301,7 @@ public class Constants
     #endregion
 
     #region "N" Adjectives
+    public const string Notoire = "notoire";
     public const string Negligent = "négligent";
     public const string Necessaire = "nécessaire";
     public const string Naturel = "naturel";
@@ -320,7 +325,7 @@ public class Constants
 
     #region "P" Adjectives
     public const string Principal = "principal";
-    public const string Pourris = "pourris";
+    public const string Pourri = "pourri";
     public const string Proche = "proche";
     public const string Pire = "pire";
     public const string Pale = "pâle";
@@ -336,6 +341,7 @@ public class Constants
     public const string Pret = "prêt";
     public const string Precieux = "précieux";
     public const string Precaire = "précaire";
+    public const string Precis = "précis";
     public const string Preemptif = "préemptif";
     public const string Prehistorique = "préhistorique";
     public const string Prejudiciable = "préjudiciable";
@@ -408,7 +414,7 @@ public class Constants
     public const string Sur = "sûr";
     public const string Special = "spécial";
     public const string Sombre = "sombre";
-    public const string Sacré = "sacré";
+    public const string Sacre = "sacré";
     public const string Solide = "solide";
     public const string Sucre = "sucré";
     public const string Sympathique = "sympathique";
@@ -424,7 +430,7 @@ public class Constants
     public const string Seduisant = "séduisant";
     public const string Symbolic = "symbolic";
     public const string Super = "super";
-    public const string Soulagé = "soulagé";
+    public const string Soulage = "soulagé";
     public const string Sceptique = "sceptique";
     public const string Scientifique = "scientifique";
     public const string Scrupuleux = "scrupuleux";
