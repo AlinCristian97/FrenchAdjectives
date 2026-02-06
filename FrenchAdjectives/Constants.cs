@@ -319,6 +319,7 @@ public class Constants
     #endregion
 
     #region "P" Adjectives
+    public const string Principal = "principal";
     public const string Pourris = "pourris";
     public const string Proche = "proche";
     public const string Pire = "pire";
