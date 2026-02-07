@@ -139,6 +139,7 @@ public class Constants
     #endregion
 
     #region "E" Adjectives
+    public const string Entetante = "entêtante";
     public const string Extreme = "extrême";
     public const string Environnant = "environnant";
     public const string Egale = "égale";
@@ -211,6 +212,7 @@ public class Constants
     #endregion
 
     #region "I" Adjectives
+    public const string Inutile = "inutile";
     public const string Innocent = "innocent";
     public const string Invisible = "invisible";
     public const string Infernal = "infernal";
@@ -378,6 +380,7 @@ public class Constants
     #endregion
 
     #region "R" Adjectives
+    public const string Recente = "récente";
     public const string Rich = "rich";
     public const string Regional = "régional";
     public const string Raffine = "raffiné";
@@ -475,6 +478,7 @@ public class Constants
     #endregion
 
     #region "V" Adjectives
+    public const string Visible = "visible";
     public const string Verdatre = "verdâtre";
     public const string Violent = "violent";
     public const string Veritable = "veritable";
