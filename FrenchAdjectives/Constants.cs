@@ -213,6 +213,7 @@ public class Constants
     #endregion
 
     #region "I" Adjectives
+    public const string Inedit = "inédit";
     public const string Inattendu = "inattendu";
     public const string Inconnu = "inconnu";
     public const string Inutile = "inutile";
@@ -321,6 +322,7 @@ public class Constants
     #endregion
 
     #region "O" Adjectives
+    public const string Original = "original";
     public const string Optimal = "optimal";
     public const string Obscur = "obscur";
     public const string Officiel = "officiel";
