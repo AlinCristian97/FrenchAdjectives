@@ -37,7 +37,6 @@ public class Constants
     public const string Z = "z";
 
     #region "A" Adjectives
-    public const string Contextuelle = "contextuelle";
     public const string Abject = "abject";
     public const string Ambiant = "ambiant";
     public const string Amer = "amer";
@@ -78,6 +77,7 @@ public class Constants
     #endregion
 
     #region "C" Adjectives
+    public const string Contextuelle = "contextuelle";
     public const string Corrompu = "corrompu";
     public const string Crasseux = "crasseux";
     public const string Cense = "censé";
@@ -211,6 +211,7 @@ public class Constants
     #endregion
 
     #region "I" Adjectives
+    public const string Innocent = "innocent";
     public const string Invisible = "invisible";
     public const string Infernal = "infernal";
     public const string Impressionnant = "impressionnant";
