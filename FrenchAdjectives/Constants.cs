@@ -270,6 +270,7 @@ public class Constants
     #endregion
 
     #region "L" Adjectives
+    public const string Legal = "légal";
     public const string Logique = "logique";
     public const string Levant = "levant";
     public const string Leger = "léger";
