@@ -37,6 +37,7 @@ public class Constants
     public const string Z = "z";
 
     #region "A" Adjectives
+    public const string Artistique = "artistique";
     public const string Abject = "abject";
     public const string Ambiant = "ambiant";
     public const string Amer = "amer";
@@ -176,6 +177,7 @@ public class Constants
     #endregion
 
     #region "F" Adjectives
+    public const string Fervent = "fervent";
     public const string Flexible = "flexible";
     public const string Farouche = "farouche";
     public const string Fou = "fou";
@@ -198,6 +200,7 @@ public class Constants
     #endregion
 
     #region "G" Adjectives
+    public const string Genant = "gênant";
     public const string Generueux = "généreux";
     public const string Gauche = "gauche";
     public const string Gentil = "gentil";
@@ -217,6 +220,7 @@ public class Constants
     #endregion
 
     #region "I" Adjectives
+    public const string Interdit = "interdit";
     public const string Impermeable = "imperméable";
     public const string Iconique = "iconique";
     public const string Incontournable = "incontournable";
@@ -319,6 +323,7 @@ public class Constants
     #endregion
 
     #region "N" Adjectives
+    public const string Nuisible = "nuisible";
     public const string Notoire = "notoire";
     public const string Negligent = "négligent";
     public const string Necessaire = "nécessaire";
