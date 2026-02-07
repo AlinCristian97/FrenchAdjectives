@@ -173,6 +173,7 @@ public class Constants
     #endregion
 
     #region "F" Adjectives
+    public const string Farouche = "farouche";
     public const string Fou = "fou";
     public const string Fichu = "fichu";
     public const string Final = "final";
@@ -212,6 +213,8 @@ public class Constants
     #endregion
 
     #region "I" Adjectives
+    public const string Inattendu = "inattendu";
+    public const string Inconnu = "inconnu";
     public const string Inutile = "inutile";
     public const string Innocent = "innocent";
     public const string Invisible = "invisible";
@@ -277,6 +280,7 @@ public class Constants
     #endregion
 
     #region "M" Adjectives
+    public const string Meconnaissable = "méconnaissable";
     public const string Malsaine = "malsaine";
     public const string Minimal = "minimal";
     public const string Mortel = "mortel";
@@ -404,6 +408,7 @@ public class Constants
     #endregion
 
     #region "S" Adjectives
+    public const string Solitaire = "solitaire";
     public const string Soigne = "soigné";
     public const string Seul = "seul";
     public const string Specifique = "spécifique";
