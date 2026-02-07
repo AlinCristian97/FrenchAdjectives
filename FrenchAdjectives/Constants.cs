@@ -77,6 +77,7 @@ public class Constants
     #endregion
 
     #region "C" Adjectives
+    public const string Contournable = "contournable";
     public const string Contextuelle = "contextuelle";
     public const string Corrompu = "corrompu";
     public const string Crasseux = "crasseux";
@@ -139,6 +140,7 @@ public class Constants
     #endregion
 
     #region "E" Adjectives
+    public const string Emblematique = "emblématique";
     public const string Entetante = "entêtante";
     public const string Extreme = "extrême";
     public const string Environnant = "environnant";
@@ -213,6 +215,8 @@ public class Constants
     #endregion
 
     #region "I" Adjectives
+    public const string Iconique = "iconique";
+    public const string Incontournable = "incontournable";
     public const string Inedit = "inédit";
     public const string Inattendu = "inattendu";
     public const string Inconnu = "inconnu";
@@ -277,6 +281,7 @@ public class Constants
     public const string Lumineux = "lumineux";
     public const string Loyal = "loyal";
     public const string Lourd = "lourd";
+    public const string Legendaire = "légendaire";
     public const string Limite = "limité";
     #endregion
 
