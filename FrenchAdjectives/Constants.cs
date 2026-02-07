@@ -140,6 +140,7 @@ public class Constants
     #endregion
 
     #region "E" Adjectives
+    public const string Encombrant = "encombrant";
     public const string Emblematique = "emblématique";
     public const string Entetante = "entêtante";
     public const string Extreme = "extrême";
@@ -175,6 +176,7 @@ public class Constants
     #endregion
 
     #region "F" Adjectives
+    public const string Flexible = "flexible";
     public const string Farouche = "farouche";
     public const string Fou = "fou";
     public const string Fichu = "fichu";
@@ -215,6 +217,7 @@ public class Constants
     #endregion
 
     #region "I" Adjectives
+    public const string Impermeable = "imperméable";
     public const string Iconique = "iconique";
     public const string Incontournable = "incontournable";
     public const string Inedit = "inédit";
@@ -270,6 +273,7 @@ public class Constants
     #endregion
 
     #region "L" Adjectives
+    public const string Local = "local";
     public const string Legal = "légal";
     public const string Logique = "logique";
     public const string Levant = "levant";
