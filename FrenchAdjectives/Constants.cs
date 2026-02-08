@@ -221,6 +221,8 @@ public class Constants
     #endregion
 
     #region "I" Adjectives
+    public const string Ironique = "ironique";
+    public const string Immortel = "immortel";
     public const string Interdit = "interdit";
     public const string Impermeable = "imperméable";
     public const string Iconique = "iconique";
@@ -296,6 +298,7 @@ public class Constants
     #endregion
 
     #region "M" Adjectives
+    public const string Maudit = "maudit";
     public const string Meconnaissable = "méconnaissable";
     public const string Malsaine = "malsaine";
     public const string Minimal = "minimal";
@@ -479,6 +482,7 @@ public class Constants
     #endregion
 
     #region "T" Adjectives
+    public const string Touchant = "touchant";
     public const string Theatral = "théâtral";
     public const string Taciturne = "taciturne";
     public const string Technique = "technique";
