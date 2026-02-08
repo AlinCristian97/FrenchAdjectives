@@ -78,6 +78,7 @@ public class Constants
     #endregion
 
     #region "C" Adjectives
+    public const string Compatissant = "compatissant";
     public const string Contournable = "contournable";
     public const string Contextuelle = "contextuelle";
     public const string Corrompu = "corrompu";
@@ -401,6 +402,7 @@ public class Constants
     #endregion
 
     #region "R" Adjectives
+    public const string Rugueux = "rugueux";
     public const string Recente = "récente";
     public const string Rich = "rich";
     public const string Regional = "régional";
