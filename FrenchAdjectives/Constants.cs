@@ -221,6 +221,7 @@ public class Constants
     #endregion
 
     #region "I" Adjectives
+    public const string Irrespectueux = "irrespectueux";
     public const string Ironique = "ironique";
     public const string Immortel = "immortel";
     public const string Interdit = "interdit";
@@ -352,6 +353,7 @@ public class Constants
     #endregion
 
     #region "P" Adjectives
+    public const string Penale = "pénale";
     public const string Principal = "principal";
     public const string Pourri = "pourri";
     public const string Proche = "proche";
