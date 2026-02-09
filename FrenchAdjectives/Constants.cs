@@ -78,6 +78,7 @@ public class Constants
     #endregion
 
     #region "C" Adjectives
+    public const string Cru = "cru";
     public const string Culpable = "culpable";
     public const string Compatissant = "compatissant";
     public const string Contournable = "contournable";
@@ -411,6 +412,7 @@ public class Constants
     #endregion
 
     #region "R" Adjectives
+    public const string Revigorant = "revigorant";
     public const string Rugueux = "rugueux";
     public const string Recente = "récente";
     public const string Rich = "rich";
@@ -513,6 +515,7 @@ public class Constants
     #endregion
 
     #region "V" Adjectives
+    public const string Visqueux = "visqueux";
     public const string Visible = "visible";
     public const string Verdatre = "verdâtre";
     public const string Violent = "violent";
