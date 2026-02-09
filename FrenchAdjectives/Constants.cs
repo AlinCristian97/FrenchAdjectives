@@ -108,6 +108,7 @@ public class Constants
     #endregion
 
     #region "D" Adjectives
+    public const string Digne = "digne";
     public const string Desole = "désolé";
     public const string Depenaille = "dépenaillé";    
     public const string Docile = "docile";
@@ -213,6 +214,7 @@ public class Constants
     #endregion
 
     #region "H" Adjectives
+    public const string Honorable = "honorable";
     public const string Hautain = "hautain";
     public const string Habile = "habile";
     public const string Heureux = "heureux";
@@ -223,6 +225,7 @@ public class Constants
     #endregion
 
     #region "I" Adjectives
+    public const string Impossible = "impossible";
     public const string Impuissant = "impuissant";
     public const string Irrespectueux = "irrespectueux";
     public const string Ironique = "ironique";
@@ -358,6 +361,7 @@ public class Constants
     #endregion
 
     #region "P" Adjectives
+    public const string Possible = "possible";
     public const string Penale = "pénale";
     public const string Principal = "principal";
     public const string Pourri = "pourri";
@@ -515,6 +519,7 @@ public class Constants
     #endregion
 
     #region "V" Adjectives
+    public const string Vain = "vain";
     public const string Visqueux = "visqueux";
     public const string Visible = "visible";
     public const string Verdatre = "verdâtre";
