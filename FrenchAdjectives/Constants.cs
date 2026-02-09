@@ -78,6 +78,7 @@ public class Constants
     #endregion
 
     #region "C" Adjectives
+    public const string Culpable = "culpable";
     public const string Compatissant = "compatissant";
     public const string Contournable = "contournable";
     public const string Contextuelle = "contextuelle";
@@ -221,6 +222,7 @@ public class Constants
     #endregion
 
     #region "I" Adjectives
+    public const string Impuissant = "impuissant";
     public const string Irrespectueux = "irrespectueux";
     public const string Ironique = "ironique";
     public const string Immortel = "immortel";
@@ -243,6 +245,7 @@ public class Constants
     public const string Inoffensif = "inoffensif";
     public const string Ideal = "idéal";
     public const string Important = "important";
+    public const string Illegitime = "illégitime";
     public const string Intelligent = "intelligent";
     public const string Interessant = "intéressant";
     public const string Improbable = "improbable";
@@ -281,6 +284,7 @@ public class Constants
     #endregion
 
     #region "L" Adjectives
+    public const string Legitime = "légitime";
     public const string Local = "local";
     public const string Legal = "légal";
     public const string Logique = "logique";
@@ -436,6 +440,7 @@ public class Constants
     public const string Soigne = "soigné";
     public const string Seul = "seul";
     public const string Specifique = "spécifique";
+    public const string Sincere = "sincère";
     public const string Sinistre = "sinistre";
     public const string Splendide = "splendide";
     public const string Sense = "sensé";
