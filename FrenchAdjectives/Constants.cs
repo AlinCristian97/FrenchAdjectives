@@ -362,6 +362,7 @@ public class Constants
 
     #region "P" Adjectives
     public const string Possible = "possible";
+    public const string Pleutre = "pleutre";
     public const string Penale = "pénale";
     public const string Principal = "principal";
     public const string Pourri = "pourri";
