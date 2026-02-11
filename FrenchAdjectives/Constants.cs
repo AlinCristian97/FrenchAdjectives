@@ -80,6 +80,7 @@ public class Constants
     #endregion
 
     #region "C" Adjectives
+    public const string Colerique = "colérique";
     public const string Cru = "cru";
     public const string Culpable = "culpable";
     public const string Compatissant = "compatissant";
@@ -227,6 +228,7 @@ public class Constants
     #endregion
 
     #region "I" Adjectives
+    public const string Imbecile = "imbécile";
     public const string Intermediaire = "intermédiaire";
     public const string Impossible = "impossible";
     public const string Impuissant = "impuissant";
@@ -310,6 +312,8 @@ public class Constants
     #endregion
 
     #region "M" Adjectives
+    public const string Mineure = "mineure";
+    public const string Majeure = "majeure";
     public const string Maudit = "maudit";
     public const string Meconnaissable = "méconnaissable";
     public const string Malsaine = "malsaine";
@@ -353,6 +357,7 @@ public class Constants
     #endregion
 
     #region "O" Adjectives
+    public const string Opportuniste = "opportuniste";
     public const string Original = "original";
     public const string Optimal = "optimal";
     public const string Obscur = "obscur";
