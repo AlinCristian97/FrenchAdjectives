@@ -37,6 +37,7 @@ public class Constants
     public const string Z = "z";
 
     #region "A" Adjectives
+    public const string Apparent = "apparent";
     public const string Personnel = "personnel";
     public const string Artistique = "artistique";
     public const string Abject = "abject";
