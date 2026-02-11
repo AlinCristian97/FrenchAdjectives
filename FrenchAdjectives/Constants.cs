@@ -37,6 +37,7 @@ public class Constants
     public const string Z = "z";
 
     #region "A" Adjectives
+    public const string Personnel = "personnel";
     public const string Artistique = "artistique";
     public const string Abject = "abject";
     public const string Ambiant = "ambiant";
@@ -225,6 +226,7 @@ public class Constants
     #endregion
 
     #region "I" Adjectives
+    public const string Intermediaire = "intermédiaire";
     public const string Impossible = "impossible";
     public const string Impuissant = "impuissant";
     public const string Irrespectueux = "irrespectueux";
@@ -361,6 +363,7 @@ public class Constants
     #endregion
 
     #region "P" Adjectives
+    public const string Penetrable = "pénétrable";
     public const string Possible = "possible";
     public const string Pleutre = "pleutre";
     public const string Penale = "pénale";
