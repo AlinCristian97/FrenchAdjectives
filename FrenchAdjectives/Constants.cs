@@ -148,6 +148,7 @@ public class Constants
     #endregion
 
     #region "E" Adjectives
+    public const string Eternel = "éternel";
     public const string Encombrant = "encombrant";
     public const string Emblematique = "emblématique";
     public const string Entetante = "entêtante";
@@ -184,6 +185,8 @@ public class Constants
     #endregion
 
     #region "F" Adjectives
+    public const string Funeraire = "funéraire";
+    public const string Familier = "familier";
     public const string Fervent = "fervent";
     public const string Flexible = "flexible";
     public const string Farouche = "farouche";
@@ -207,6 +210,8 @@ public class Constants
     #endregion
 
     #region "G" Adjectives
+    public const string Gigantesque = "gigantesque";
+    public const string Geant = "géant";
     public const string Genant = "gênant";
     public const string Generueux = "généreux";
     public const string Gauche = "gauche";
