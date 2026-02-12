@@ -185,6 +185,7 @@ public class Constants
     #endregion
 
     #region "F" Adjectives
+    public const string Frustrant = "frustrant";
     public const string Funeraire = "funéraire";
     public const string Familier = "familier";
     public const string Fervent = "fervent";
@@ -511,6 +512,7 @@ public class Constants
     #endregion
 
     #region "T" Adjectives
+    public const string Trompeur = "trompeur";
     public const string Touchant = "touchant";
     public const string Theatral = "théâtral";
     public const string Taciturne = "taciturne";
