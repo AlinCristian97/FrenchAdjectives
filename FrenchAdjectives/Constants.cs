@@ -233,6 +233,7 @@ public class Constants
     #endregion
 
     #region "I" Adjectives
+    public const string Inviolable = "inviolable";
     public const string Imbecile = "imbécile";
     public const string Intermediaire = "intermédiaire";
     public const string Impossible = "impossible";
