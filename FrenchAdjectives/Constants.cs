@@ -350,6 +350,7 @@ public class Constants
     #endregion
 
     #region "N" Adjectives
+    public const string Natural = "natural";
     public const string Nuisible = "nuisible";
     public const string Notoire = "notoire";
     public const string Negligent = "négligent";
