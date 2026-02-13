@@ -234,6 +234,7 @@ public class Constants
     #endregion
 
     #region "I" Adjectives
+    public const string Indifferent = "indifférent";
     public const string Inviolable = "inviolable";
     public const string Imbecile = "imbécile";
     public const string Intermediaire = "intermédiaire";
@@ -434,6 +435,7 @@ public class Constants
     #endregion
 
     #region "R" Adjectives
+    public const string Ridicule = "ridicule";
     public const string Revigorant = "revigorant";
     public const string Rugueux = "rugueux";
     public const string Recente = "récente";
@@ -513,6 +515,7 @@ public class Constants
     #endregion
 
     #region "T" Adjectives
+    public const string Total = "total";
     public const string Trompeur = "trompeur";
     public const string Touchant = "touchant";
     public const string Theatral = "théâtral";
