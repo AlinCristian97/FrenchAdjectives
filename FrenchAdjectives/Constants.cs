@@ -234,6 +234,7 @@ public class Constants
     #endregion
 
     #region "I" Adjectives
+    public const string Insignifiant = "insignifiant";
     public const string Indifferent = "indifférent";
     public const string Inviolable = "inviolable";
     public const string Imbecile = "imbécile";
@@ -462,6 +463,7 @@ public class Constants
     #endregion
 
     #region "S" Adjectives
+    public const string Signifiant = "signifiant";
     public const string Solitaire = "solitaire";
     public const string Soigne = "soigné";
     public const string Seul = "seul";
