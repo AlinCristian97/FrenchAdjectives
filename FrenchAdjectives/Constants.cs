@@ -62,6 +62,7 @@ public class Constants
     #endregion
 
     #region "B" Adjectives
+    public const string Bete = "bête";
     public const string Brutal = "brutal";
     public const string Bouillonnant = "bouillonnant";
     public const string Blanc = "blanc";
@@ -285,6 +286,7 @@ public class Constants
     #endregion
 
     #region "J" Adjectives
+    public const string Jaloux = "jaloux";
     public const string Jeune = "jeune";
     public const string Joli = "joli";
     public const string Japonais = "japonais";
