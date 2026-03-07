@@ -323,6 +323,7 @@ public class Constants
     #endregion
 
     #region "M" Adjectives
+    public const string Morose = "morose";
     public const string Mineure = "mineure";
     public const string Majeure = "majeure";
     public const string Maudit = "maudit";
@@ -466,6 +467,7 @@ public class Constants
 
     #region "S" Adjectives
     public const string Signifiant = "signifiant";
+    public const string Semblable = "semblable";
     public const string Solitaire = "solitaire";
     public const string Soigne = "soigné";
     public const string Seul = "seul";
