@@ -37,6 +37,7 @@ public class Constants
     public const string Z = "z";
 
     #region "A" Adjectives
+    public const string Autochtone = "autochtone";
     public const string Ardent = "ardent";
     public const string Apparent = "apparent";
     public const string Personnel = "personnel";
@@ -82,6 +83,8 @@ public class Constants
     #endregion
 
     #region "C" Adjectives
+    public const string Calamiteux = "calamiteux";
+    public const string Commun = "commun";
     public const string Coriace = "coriace";
     public const string Chaleureux = "chaleureux";
     public const string Colerique = "colérique";
@@ -116,6 +119,7 @@ public class Constants
     #endregion
 
     #region "D" Adjectives
+    public const string Desoriente = "désorienté";
     public const string Douce = "douce";
     public const string Digne = "digne";
     public const string Desole = "désolé";
@@ -361,6 +365,7 @@ public class Constants
     #endregion
 
     #region "N" Adjectives
+    public const string Nombreux = "nombreux";
     public const string Natural = "natural";
     public const string Nuisible = "nuisible";
     public const string Notoire = "notoire";
@@ -529,6 +534,7 @@ public class Constants
     #endregion
 
     #region "T" Adjectives
+    public const string Typique = "typique";
     public const string Total = "total";
     public const string Trompeur = "trompeur";
     public const string Touchant = "touchant";
