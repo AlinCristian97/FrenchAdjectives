@@ -195,6 +195,7 @@ public class Constants
     #endregion
 
     #region "F" Adjectives
+    public const string Fier = "fier";
     public const string Frustrant = "frustrant";
     public const string Funeraire = "funéraire";
     public const string Familier = "familier";
@@ -562,6 +563,7 @@ public class Constants
 
     #region "V" Adjectives
     public const string Vain = "vain";
+    public const string Veuf = "veuf";
     public const string Visqueux = "visqueux";
     public const string Visible = "visible";
     public const string Verdatre = "verdâtre";
