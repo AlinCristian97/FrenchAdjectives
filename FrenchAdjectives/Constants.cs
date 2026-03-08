@@ -37,6 +37,7 @@ public class Constants
     public const string Z = "z";
 
     #region "A" Adjectives
+    public const string Ardent = "ardent";
     public const string Apparent = "apparent";
     public const string Personnel = "personnel";
     public const string Artistique = "artistique";
@@ -81,6 +82,8 @@ public class Constants
     #endregion
 
     #region "C" Adjectives
+    public const string Coriace = "coriace";
+    public const string Chaleureux = "chaleureux";
     public const string Colerique = "colérique";
     public const string Cru = "cru";
     public const string Culpable = "culpable";
@@ -109,9 +112,11 @@ public class Constants
     public const string Content = "content";
     public const string Complexe = "complexe";
     public const string Chaque = "chaque";
+    public const string Condescendant = "condescendant";
     #endregion
 
     #region "D" Adjectives
+    public const string Douce = "douce";
     public const string Digne = "digne";
     public const string Desole = "désolé";
     public const string Depenaille = "dépenaillé";    
@@ -224,6 +229,7 @@ public class Constants
     #endregion
 
     #region "H" Adjectives
+    public const string Horrible = "horrible";
     public const string Honorable = "honorable";
     public const string Hautain = "hautain";
     public const string Habile = "habile";
@@ -382,6 +388,7 @@ public class Constants
     #endregion
 
     #region "P" Adjectives
+    public const string Profonde = "profonde";
     public const string Penetrable = "pénétrable";
     public const string Possible = "possible";
     public const string Pleutre = "pleutre";
@@ -466,6 +473,7 @@ public class Constants
     #endregion
 
     #region "S" Adjectives
+    public const string Supreme = "Suprême";
     public const string Signifiant = "signifiant";
     public const string Semblable = "semblable";
     public const string Solitaire = "solitaire";
@@ -510,11 +518,11 @@ public class Constants
     public const string Solennel = "solennel";
     public const string Somptueux = "somptueux";
     public const string Spontane = "spontané";
-    public const string Stupéfiant = "stupéfiant";
+    public const string Stupefiant = "stupéfiant";
     public const string Subtil = "subtil";
-    public const string Suggeré = "suggéré";
+    public const string Suggere = "suggéré";
     public const string Surprenant = "surprenant";
-    public const string Systématique = "systématique";
+    public const string Systematique = "systématique";
     public const string Satisfait = "satisfait";
     public const string Sponsorise = "sponsorisé";
     public const string Strict = "strict";
