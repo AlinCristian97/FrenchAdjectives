@@ -106,11 +106,11 @@ public class Constants
     public const string Court = "court";
     public const string Cruel = "cruel";
     public const string Clair = "clair";
-    public const string Compliqué = "compliqué";
+    public const string Complique = "compliqué";
     public const string Celibataire = "célibataire";
     public const string Courageux = "courageux";
     public const string Curieux = "curieux";
-    public const string Créatif = "créatif";
+    public const string Creatif = "créatif";
     public const string Content = "content";
     public const string Complexe = "complexe";
     public const string Chaque = "chaque";
@@ -145,7 +145,7 @@ public class Constants
     public const string Discret = "discret";
     public const string Distinctif = "distinctif";
     public const string Distrayant = "distrayant";
-    public const string Documenté = "documenté";
+    public const string Documente = "documenté";
     public const string Dolent = "dolent";
     public const string Douteux = "douteux";
     public const string Draconien = "draconien";
@@ -167,8 +167,8 @@ public class Constants
     public const string Energique = "énergique";
     public const string Enorme = "énorme";
     public const string Ecrit = "écrit";
-    public const string Excité = "excité";
-    public const string Excitée = "excitée";
+    public const string Excite = "excité";
+    public const string Excitee = "excitée";
     public const string Epais = "épais";
     public const string Etrange = "étrange";
     public const string Evident = "évident";
@@ -436,7 +436,7 @@ public class Constants
     public const string Pittoresque = "pittoresque";
     public const string Pluvieux = "pluvieux";
     public const string Polyvalent = "polyvalent";
-    public const string Ponderé = "pondéré";
+    public const string Pondere = "pondéré";
     public const string Portatif = "portatif";
     public const string Posthume = "posthume";
     public const string Prefere = "préféré";
@@ -474,7 +474,7 @@ public class Constants
     public const string Redoutable = "redoutable";
     public const string Refroidi = "refroidi";
     public const string Regulier = "régulier";
-    public const string Renouvelé = "renouvelé";
+    public const string Renouvele = "renouvelé";
     public const string Renversante = "renversante";
     #endregion
 
