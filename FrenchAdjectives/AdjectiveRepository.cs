@@ -16,7 +16,6 @@ namespace FrenchAdjectives
             Constants.Autochtone,
             Constants.Ardent,
             Constants.Apparent,
-            Constants.Personnel,
             Constants.Artistique,
             Constants.Abject,
             Constants.Ambiant,
@@ -385,6 +384,7 @@ namespace FrenchAdjectives
 
         public static readonly IReadOnlyList<string> P = new[]
         {
+            Constants.Personnel,
             Constants.Profonde,
             Constants.Penetrable,
             Constants.Possible,

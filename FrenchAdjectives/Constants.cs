@@ -40,7 +40,6 @@ public class Constants
     public const string Autochtone = "autochtone";
     public const string Ardent = "ardent";
     public const string Apparent = "apparent";
-    public const string Personnel = "personnel";
     public const string Artistique = "artistique";
     public const string Abject = "abject";
     public const string Ambiant = "ambiant";
@@ -394,6 +393,7 @@ public class Constants
     #endregion
 
     #region "P" Adjectives
+    public const string Personnel = "personnel";
     public const string Profonde = "profonde";
     public const string Penetrable = "pénétrable";
     public const string Possible = "possible";
