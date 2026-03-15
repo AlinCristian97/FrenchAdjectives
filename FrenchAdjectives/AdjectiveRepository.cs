@@ -14,6 +14,7 @@ namespace FrenchAdjectives
         public static readonly IReadOnlyList<string> A = new[]
         {
             Constants.Autochtone,
+            Constants.Agacant,
             Constants.Ardent,
             Constants.Apparent,
             Constants.Artistique,

@@ -60,6 +60,7 @@ public class Constants
     public const string Anglais = "anglais";
     public const string Abbandoned = "abbandoned";
     public const string Arrete = "arrêté";
+    public const string Agacant = "agaçant";
     #endregion
 
     #region "B" Adjectives
