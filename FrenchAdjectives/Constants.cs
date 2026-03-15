@@ -551,6 +551,7 @@ public class Constants
     public const string Triste = "triste";
     public const string Termine = "terminé";
     public const string Terminee = "terminée";
+    public const string Talentueux = "talentueux";
     #endregion
 
     #region "U" Adjectives

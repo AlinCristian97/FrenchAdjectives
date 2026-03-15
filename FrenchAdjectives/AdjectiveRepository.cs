@@ -546,6 +546,7 @@ namespace FrenchAdjectives
             Constants.Triste,
             Constants.Termine,
             Constants.Terminee,
+            Constants.Talentueux,
         };
 
         public static readonly IReadOnlyList<string> U = new[]
