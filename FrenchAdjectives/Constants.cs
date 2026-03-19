@@ -120,6 +120,7 @@ public class Constants
     #endregion
 
     #region "D" Adjectives
+    public const string Dispensable = "dispensable";
     public const string Desoriente = "désorienté";
     public const string Douce = "douce";
     public const string Digne = "digne";

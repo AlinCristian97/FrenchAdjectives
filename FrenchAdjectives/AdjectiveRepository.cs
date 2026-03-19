@@ -106,6 +106,7 @@ namespace FrenchAdjectives
             Constants.Depenaille,
             Constants.Docile,
             Constants.Dangereux,
+            Constants.Dispensable,
             Constants.Droite,
             Constants.Delicat,
             Constants.Difficile,
