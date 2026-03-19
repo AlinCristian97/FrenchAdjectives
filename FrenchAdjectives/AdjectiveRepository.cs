@@ -64,6 +64,7 @@ namespace FrenchAdjectives
             Constants.Calamiteux,
             Constants.Concret,
             Constants.Commun,
+            Constants.Climatique,
             Constants.Coriace,
             Constants.Chaleureux,
             Constants.Colerique,
