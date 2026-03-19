@@ -158,6 +158,7 @@ namespace FrenchAdjectives
             Constants.Extraordinaire,
             Constants.Exuberant,
             Constants.Elegant,
+            Constants.Electrique,
             Constants.Emouvant,
             Constants.Enchanteur,
             Constants.Ensoleille,
