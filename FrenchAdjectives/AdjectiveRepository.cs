@@ -173,6 +173,7 @@ namespace FrenchAdjectives
             Constants.Evocateur,
             Constants.Extravagant,
             Constants.Espagnol,
+            Constants.Excessif,
         };
 
         public static readonly IReadOnlyList<string> F = new[]

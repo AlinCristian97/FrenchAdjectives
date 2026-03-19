@@ -158,6 +158,7 @@ public class Constants
     #endregion
 
     #region "E" Adjectives
+    public const string Excessif = "excessif";
     public const string Electrique = "électrique";
     public const string Eternel = "éternel";
     public const string Encombrant = "encombrant";
