@@ -460,6 +460,7 @@ public class Constants
     #endregion
 
     #region "R" Adjectives
+    public const string Rigoureux = "rigoureux";
     public const string Ridicule = "ridicule";
     public const string Revigorant = "revigorant";
     public const string Rugueux = "rugueux";

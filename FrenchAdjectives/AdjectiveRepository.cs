@@ -463,6 +463,7 @@ namespace FrenchAdjectives
             Constants.Rapide,
             Constants.Rare,
             Constants.Reserve,
+            Constants.Rigoureux,
             Constants.Riche,
             Constants.Rond,
             Constants.Rouge,
