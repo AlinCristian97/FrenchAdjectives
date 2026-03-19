@@ -576,6 +576,7 @@ namespace FrenchAdjectives
             Constants.Vain,
             Constants.Veuf,
             Constants.Visqueux,
+            Constants.Vivant,
             Constants.Visible,
             Constants.Verdatre,
             Constants.Violent,

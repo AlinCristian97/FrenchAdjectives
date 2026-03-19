@@ -576,6 +576,7 @@ public class Constants
     #endregion
 
     #region "V" Adjectives
+    public const string Vivant = "vivant";
     public const string Vain = "vain";
     public const string Veuf = "veuf";
     public const string Visqueux = "visqueux";
