@@ -83,6 +83,7 @@ public class Constants
     #endregion
 
     #region "C" Adjectives
+    public const string Concret = "concret";
     public const string Competent = "compétent";
     public const string Calamiteux = "calamiteux";
     public const string Commun = "commun";

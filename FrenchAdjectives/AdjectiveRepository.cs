@@ -62,6 +62,7 @@ namespace FrenchAdjectives
         public static readonly IReadOnlyList<string> C = new[]
         {
             Constants.Calamiteux,
+            Constants.Concret,
             Constants.Commun,
             Constants.Coriace,
             Constants.Chaleureux,
