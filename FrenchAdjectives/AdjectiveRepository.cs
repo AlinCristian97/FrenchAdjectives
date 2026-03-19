@@ -184,6 +184,7 @@ namespace FrenchAdjectives
         public static readonly IReadOnlyList<string> F = new[]
         {
             Constants.Fier,
+            Constants.Fragile,
             Constants.Frustrant,
             Constants.Funeraire,
             Constants.Familier,

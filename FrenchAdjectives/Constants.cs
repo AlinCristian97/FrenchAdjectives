@@ -227,6 +227,7 @@ public class Constants
     public const string Frequent = "fréquent";
     public const string Francais = "français";
     public const string Ferme = "fermé";
+    public const string Fragile = "fragile";
     #endregion
 
     #region "G" Adjectives
