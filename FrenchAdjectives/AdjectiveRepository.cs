@@ -67,6 +67,7 @@ namespace FrenchAdjectives
             Constants.Chaleureux,
             Constants.Colerique,
             Constants.Cru,
+            Constants.Competent,
             Constants.Culpable,
             Constants.Compatissant,
             Constants.Contournable,
