@@ -234,6 +234,7 @@ namespace FrenchAdjectives
 
         public static readonly IReadOnlyList<string> I = new[]
         {
+            Constants.Incompetent,
             Constants.Insignifiant,
             Constants.Indifferent,
             Constants.Inviolable,

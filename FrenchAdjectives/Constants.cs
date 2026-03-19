@@ -250,6 +250,7 @@ public class Constants
     #endregion
 
     #region "I" Adjectives
+    public const string Incompetent = "incompétent";
     public const string Insignifiant = "insignifiant";
     public const string Indifferent = "indifférent";
     public const string Inviolable = "inviolable";
