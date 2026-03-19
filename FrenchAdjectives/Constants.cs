@@ -300,6 +300,7 @@ public class Constants
     #endregion
 
     #region "J" Adjectives
+    public const string Judiciaire = "judiciaire";
     public const string Jaloux = "jaloux";
     public const string Jeune = "jeune";
     public const string Joli = "joli";

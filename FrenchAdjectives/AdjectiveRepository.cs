@@ -286,6 +286,7 @@ namespace FrenchAdjectives
         public static readonly IReadOnlyList<string> J = new[]
         {
             Constants.Jaloux,
+            Constants.Judiciaire,
             Constants.Jeune,
             Constants.Joli,
             Constants.Japonais,
