@@ -185,6 +185,7 @@ namespace FrenchAdjectives
             Constants.Flexible,
             Constants.Farouche,
             Constants.Fou,
+            Constants.Foncier,
             Constants.Fichu,
             Constants.Final,
             Constants.Fascinant,

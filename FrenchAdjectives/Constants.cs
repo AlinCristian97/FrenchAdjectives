@@ -196,6 +196,7 @@ public class Constants
     #endregion
 
     #region "F" Adjectives
+    public const string Foncier = "foncier";
     public const string Fier = "fier";
     public const string Frustrant = "frustrant";
     public const string Funeraire = "funéraire";
