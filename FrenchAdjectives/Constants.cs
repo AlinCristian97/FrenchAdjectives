@@ -37,6 +37,7 @@ public class Constants
     public const string Z = "z";
 
     #region "A" Adjectives
+    public const string Attrayant = "attrayant";
     public const string Autochtone = "autochtone";
     public const string Ardent = "ardent";
     public const string Apparent = "apparent";

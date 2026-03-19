@@ -24,6 +24,7 @@ namespace FrenchAdjectives
             Constants.Adorable,
             Constants.Agreable,
             Constants.Attentif,
+            Constants.Attrayant,
             Constants.Aimable,
             Constants.Amusant,
             Constants.Ancien,
