@@ -15,5 +15,6 @@ internal static partial class AdjectiveRepository
         Constants.Glacial,
         Constants.Grand,
         Constants.Gros,
+        Constants.Grisonnant,
     };
 }

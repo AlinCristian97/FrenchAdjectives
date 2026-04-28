@@ -11,4 +11,5 @@ public partial class Constants
     public const string Glacial = "glacial";
     public const string Grand = "grand";
     public const string Gros = "gros";
+    public const string Grisonnant = "grisonnant";
 }
