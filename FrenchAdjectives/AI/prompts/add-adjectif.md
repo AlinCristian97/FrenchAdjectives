@@ -11,23 +11,26 @@ The user provides a French adjective to add to the project.
 
 ## Steps
 
-### 1. Add the constant to `Constants.cs`
+### 1. Add the constant to split `Constants` partial files
 
-- Open `FrenchAdjectives\Constants.cs`.
-- Determine the **first letter** of the adjective value (strip diacritics: `é` → `e`, `ç` → `c`, etc.) to identify the correct `#region "{Letter}" Adjectives` block.
-- Add a new line inside that region following the existing pattern:
+- Edit: `FrenchAdjectives\AllConstants\Constants.{LETTER}.cs`
+- `{LETTER}` = uppercase ASCII first letter of the adjective (`é` → `E`, `ç` → `C`, etc.).
+- Add at end of file/class:
 
 ```csharp
 public const string <ConstantName> = "<adjective value>";
 ```
 
-- Append the new entry **at the end** of the region, just before the `#endregion` line.
+Rules:
+- Constant name: PascalCase, no accents/hyphens.
+- Value: lowercase adjective, accents preserved.
 
-### 2. Add the constant to `AdjectiveRepository.cs`
+### 2. Add the constant to split `AdjectiveRepository` partial files
 
-- Open `FrenchAdjectives\AdjectiveRepository.cs`.
-- Locate the `public static readonly IReadOnlyList<string>` array that corresponds to the same uppercase letter (e.g. list `D` for an adjective starting with `d`/`d`).
-- Append `Constants.<ConstantName>,` as the **last entry** in that array, just before the closing `};`.
+- Edit: `FrenchAdjectives\AllAdjectiveRepository\AdjectiveRepository.{LETTER}.cs`
+- `{LETTER}` = same uppercase ASCII first letter as above.
+- Add the constant to that letter's list (`A`, `B`, ...).
+- List order does **not** need to be alphabetical; append `Constants.<ConstantName>,` at the **end** of the array, just before the closing `};`.
 
 > No other changes are needed — the `All` list and `BuildLetterMap()` already aggregate the per-letter arrays automatically.
 
@@ -65,13 +68,13 @@ public const string <ConstantName> = "<adjective value>";
 
 Given the adjective `familier`:
 
-**Constants.cs** — inside `#region "F" Adjectives`, before `#endregion`:
+**Constants.F.cs** — at the end of the file:
 
 ```csharp
 public const string Familier = "familier";
 ```
 
-**AdjectiveRepository.cs** — last entry in the `F` array:
+**AdjectiveRepository.F.cs** — last entry in the `F` array:
 
 ```csharp
 Constants.Familier,
