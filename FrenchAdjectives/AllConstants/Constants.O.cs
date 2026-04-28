@@ -11,4 +11,5 @@ public partial class Constants
     public const string Ordinaire = "ordinaire";
     public const string Optimiste = "optimiste";
     public const string Ouvert = "ouvert";
+    public const string Oisif = "oisif";
 }

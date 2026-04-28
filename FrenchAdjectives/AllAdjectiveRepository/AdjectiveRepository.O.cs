@@ -15,5 +15,6 @@ internal static partial class AdjectiveRepository
         Constants.Ordinaire,
         Constants.Optimiste,
         Constants.Ouvert,
+        Constants.Oisif,
     };
 }
