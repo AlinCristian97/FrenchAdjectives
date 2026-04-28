@@ -1,0 +1,57 @@
+﻿using FrenchAdjectives.AllConstants;
+
+namespace FrenchAdjectives.AllAdjectiveRepository;
+
+internal static partial class AdjectiveRepository
+{
+    public static readonly IReadOnlyList<string> P = new[]
+    {
+        Constants.Personnel,
+        Constants.Profonde,
+        Constants.Penetrable,
+        Constants.Possible,
+        Constants.Pleutre,
+        Constants.Penale,
+        Constants.Principal,
+        Constants.Pourri,
+        Constants.Proche,
+        Constants.Pire,
+        Constants.Pale,
+        Constants.Paisible,
+        Constants.Pareil,
+        Constants.Parle,
+        Constants.Parfait,
+        Constants.Petit,
+        Constants.Plein,
+        Constants.Propre,
+        Constants.Pauvre,
+        Constants.Prochain,
+        Constants.Pret,
+        Constants.Precieux,
+        Constants.Precaire,
+        Constants.Precis,
+        Constants.Preemptif,
+        Constants.Prehistorique,
+        Constants.Prejudiciable,
+        Constants.Preliminaire,
+        Constants.Prenatal,
+        Constants.Prescient,
+        Constants.Prestigieux,
+        Constants.Primitif,
+        Constants.Privilegie,
+        Constants.Probable,
+        Constants.Prodigieux,
+        Constants.Profond,
+        Constants.Prolifique,
+        Constants.Prudent,
+        Constants.Pugnace,
+        Constants.Puissant,
+        Constants.Pittoresque,
+        Constants.Pluvieux,
+        Constants.Polyvalent,
+        Constants.Pondere,
+        Constants.Portatif,
+        Constants.Posthume,
+        Constants.Prefere,
+    };
+}

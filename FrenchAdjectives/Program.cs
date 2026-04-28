@@ -1,4 +1,5 @@
-﻿using FrenchAdjectives.AllConstants;
+﻿using FrenchAdjectives.AllAdjectiveRepository;
+using FrenchAdjectives.AllConstants;
 
 namespace FrenchAdjectives
 {
