@@ -32,5 +32,6 @@ internal static partial class AdjectiveRepository
         Constants.Frequent,
         Constants.Francais,
         Constants.Ferme,
+        Constants.Fringant,
     };
 }

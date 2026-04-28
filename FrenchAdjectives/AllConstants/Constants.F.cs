@@ -28,4 +28,5 @@ public partial class Constants
     public const string Francais = "français";
     public const string Ferme = "fermé";
     public const string Fragile = "fragile";
+    public const string Fringant = "fringant";
 }
