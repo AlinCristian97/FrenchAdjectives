@@ -1,0 +1,54 @@
+﻿namespace FrenchAdjectives.AllConstants;
+
+public partial class Constants
+{
+    public const string Incompetent = "incompétent";
+    public const string Insignifiant = "insignifiant";
+    public const string Indifferent = "indifférent";
+    public const string Inviolable = "inviolable";
+    public const string Imbecile = "imbécile";
+    public const string Intermediaire = "intermédiaire";
+    public const string Impossible = "impossible";
+    public const string Impuissant = "impuissant";
+    public const string Irrespectueux = "irrespectueux";
+    public const string Ironique = "ironique";
+    public const string Immortel = "immortel";
+    public const string Interdit = "interdit";
+    public const string Impermeable = "imperméable";
+    public const string Iconique = "iconique";
+    public const string Incontournable = "incontournable";
+    public const string Inedit = "inédit";
+    public const string Inattendu = "inattendu";
+    public const string Inconnu = "inconnu";
+    public const string Inutile = "inutile";
+    public const string Innocent = "innocent";
+    public const string Invisible = "invisible";
+    public const string Infernal = "infernal";
+    public const string Impressionnant = "impressionnant";
+    public const string Inhabituel = "inhabituel";
+    public const string Inintelligible = "inintelligible";
+    public const string Insupportable = "insupportable";
+    public const string Incapable = "incapable";
+    public const string Inoffensif = "inoffensif";
+    public const string Ideal = "idéal";
+    public const string Important = "important";
+    public const string Illegitime = "illégitime";
+    public const string Intelligent = "intelligent";
+    public const string Interessant = "intéressant";
+    public const string Improbable = "improbable";
+    public const string Isole = "isolé";
+    public const string Impeccable = "impeccable";
+    public const string Imposant = "imposant";
+    public const string Incroyable = "incroyable";
+    public const string Indispensable = "indispensable";
+    public const string Inoubliable = "inoubliable";
+    public const string Insolite = "insolite";
+    public const string Inspirant = "inspirant";
+    public const string Intense = "intense";
+    public const string Intriguant = "intriguant";
+    public const string Invincible = "invincible";
+    public const string Irresistible = "irrésistible";
+    public const string Irritable = "irritable";
+    public const string Immateriel = "immatériel";
+    public const string Incassable = "incassable";
+}

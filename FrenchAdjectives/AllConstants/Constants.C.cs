@@ -1,0 +1,41 @@
+﻿namespace FrenchAdjectives.AllConstants;
+
+public partial class Constants
+{
+    public const string Climatique = "climatique";
+    public const string Concret = "concret";
+    public const string Competent = "compétent";
+    public const string Calamiteux = "calamiteux";
+    public const string Commun = "commun";
+    public const string Coriace = "coriace";
+    public const string Chaleureux = "chaleureux";
+    public const string Colerique = "colérique";
+    public const string Cru = "cru";
+    public const string Culpable = "culpable";
+    public const string Compatissant = "compatissant";
+    public const string Contournable = "contournable";
+    public const string Contextuelle = "contextuelle";
+    public const string Corrompu = "corrompu";
+    public const string Crasseux = "crasseux";
+    public const string Cense = "censé";
+    public const string Celebre = "célèbre";
+    public const string Convulsif = "convulsif";
+    public const string Certain = "certain";
+    public const string Critique = "critique";
+    public const string Calme = "calme";
+    public const string Complet = "complet";
+    public const string Chaud = "chaud";
+    public const string Cher = "cher";
+    public const string Court = "court";
+    public const string Cruel = "cruel";
+    public const string Clair = "clair";
+    public const string Complique = "compliqué";
+    public const string Celibataire = "célibataire";
+    public const string Courageux = "courageux";
+    public const string Curieux = "curieux";
+    public const string Creatif = "créatif";
+    public const string Content = "content";
+    public const string Complexe = "complexe";
+    public const string Chaque = "chaque";
+    public const string Condescendant = "condescendant";
+}

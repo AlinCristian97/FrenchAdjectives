@@ -1,4 +1,6 @@
-﻿namespace FrenchAdjectives
+﻿using FrenchAdjectives.AllConstants;
+
+namespace FrenchAdjectives
 {
     internal class Program
     {

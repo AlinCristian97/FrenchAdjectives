@@ -1,0 +1,52 @@
+﻿namespace FrenchAdjectives.AllConstants;
+
+public partial class Constants
+{
+    public const string Personnel = "personnel";
+    public const string Profonde = "profonde";
+    public const string Penetrable = "pénétrable";
+    public const string Possible = "possible";
+    public const string Pleutre = "pleutre";
+    public const string Penale = "pénale";
+    public const string Principal = "principal";
+    public const string Pourri = "pourri";
+    public const string Proche = "proche";
+    public const string Pire = "pire";
+    public const string Pale = "pâle";
+    public const string Paisible = "paisible";
+    public const string Pareil = "pareil";
+    public const string Parle = "parlé";
+    public const string Parfait = "parfait";
+    public const string Petit = "petit";
+    public const string Plein = "plein";
+    public const string Propre = "propre";
+    public const string Pauvre = "pauvre";
+    public const string Prochain = "prochain";
+    public const string Pret = "prêt";
+    public const string Precieux = "précieux";
+    public const string Precaire = "précaire";
+    public const string Precis = "précis";
+    public const string Preemptif = "préemptif";
+    public const string Prehistorique = "préhistorique";
+    public const string Prejudiciable = "préjudiciable";
+    public const string Preliminaire = "préliminaire";
+    public const string Prenatal = "prénatal";
+    public const string Prescient = "préscient";
+    public const string Prestigieux = "prestigieux";
+    public const string Primitif = "primitif";
+    public const string Privilegie = "privilégié";
+    public const string Probable = "probable";
+    public const string Prodigieux = "prodigieux";
+    public const string Profond = "profond";
+    public const string Prolifique = "prolifique";
+    public const string Prudent = "prudent";
+    public const string Pugnace = "pugnace";
+    public const string Puissant = "puissant";
+    public const string Pittoresque = "pittoresque";
+    public const string Pluvieux = "pluvieux";
+    public const string Polyvalent = "polyvalent";
+    public const string Pondere = "pondéré";
+    public const string Portatif = "portatif";
+    public const string Posthume = "posthume";
+    public const string Prefere = "préféré";
+}

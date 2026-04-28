@@ -1,0 +1,58 @@
+﻿namespace FrenchAdjectives.AllConstants;
+
+public partial class Constants
+{
+    public const string Supreme = "Suprême";
+    public const string Signifiant = "signifiant";
+    public const string Semblable = "semblable";
+    public const string Solitaire = "solitaire";
+    public const string Soigne = "soigné";
+    public const string Seul = "seul";
+    public const string Specifique = "spécifique";
+    public const string Sincere = "sincère";
+    public const string Sinistre = "sinistre";
+    public const string Splendide = "splendide";
+    public const string Sense = "sensé";
+    public const string Soigneux = "soigneux";
+    public const string Supportable = "supportable";
+    public const string Servile = "servile";
+    public const string Sournoise = "sournoise";
+    public const string Simple = "simple";
+    public const string Sur = "sûr";
+    public const string Special = "spécial";
+    public const string Sombre = "sombre";
+    public const string Sacre = "sacré";
+    public const string Solide = "solide";
+    public const string Sucre = "sucré";
+    public const string Sympathique = "sympathique";
+    public const string Serein = "serein";
+    public const string Silencieux = "silencieux";
+    public const string Souple = "souple";
+    public const string Sportif = "sportif";
+    public const string Stable = "stable";
+    public const string Style = "stylé";
+    public const string Suave = "suave";
+    public const string Satisfaisant = "satisfaisant";
+    public const string Scintillant = "scintillant";
+    public const string Seduisant = "séduisant";
+    public const string Symbolic = "symbolic";
+    public const string Super = "super";
+    public const string Soulage = "soulagé";
+    public const string Sceptique = "sceptique";
+    public const string Scientifique = "scientifique";
+    public const string Scrupuleux = "scrupuleux";
+    public const string Sensationnel = "sensationnel";
+    public const string Sensible = "sensible";
+    public const string Sentimental = "sentimental";
+    public const string Solennel = "solennel";
+    public const string Somptueux = "somptueux";
+    public const string Spontane = "spontané";
+    public const string Stupefiant = "stupéfiant";
+    public const string Subtil = "subtil";
+    public const string Suggere = "suggéré";
+    public const string Surprenant = "surprenant";
+    public const string Systematique = "systématique";
+    public const string Satisfait = "satisfait";
+    public const string Sponsorise = "sponsorisé";
+    public const string Strict = "strict";
+}
