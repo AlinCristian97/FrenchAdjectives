@@ -31,4 +31,6 @@ public partial class Constants
     public const string Monumental = "monumental";
     public const string Magique = "magique";
     public const string Mexicain = "mexicain";
+    public const string Maladif = "maladif";
+    public const string Malade = "malade";
 }

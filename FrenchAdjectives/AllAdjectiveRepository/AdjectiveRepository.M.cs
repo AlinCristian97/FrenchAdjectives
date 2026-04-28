@@ -35,5 +35,7 @@ internal static partial class AdjectiveRepository
         Constants.Monumental,
         Constants.Magique,
         Constants.Mexicain,
+        Constants.Maladif,
+        Constants.Malade,
     };
 }
