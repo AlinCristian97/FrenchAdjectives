@@ -18,4 +18,5 @@ public partial class Constants
     public const string Lourd = "lourd";
     public const string Legendaire = "légendaire";
     public const string Limite = "limité";
+    public const string Leste = "leste";
 }

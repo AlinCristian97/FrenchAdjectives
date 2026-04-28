@@ -22,5 +22,6 @@ internal static partial class AdjectiveRepository
         Constants.Lourd,
         Constants.Legendaire,
         Constants.Limite,
+        Constants.Leste,
     };
 }
