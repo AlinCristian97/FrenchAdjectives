@@ -17,4 +17,14 @@ internal static partial class AdjectiveRepository
         Constants.Quintessentiel,
         Constants.Quiescent,
     };
+
+    public static readonly IReadOnlyList<string> Q_Popular = new[]
+    {
+        Constants.Quelconque,
+        Constants.Quotidien,
+        Constants.Qualifie,
+        Constants.Querelleux,
+        Constants.Questionnable,
+        Constants.Qualitatif,
+    };
 }
