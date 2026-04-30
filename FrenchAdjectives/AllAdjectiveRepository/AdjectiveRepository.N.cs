@@ -35,4 +35,28 @@ internal static partial class AdjectiveRepository
         Constants.Nitide,
         Constants.Nomade,
     };
+
+    public static readonly IReadOnlyList<string> N_Popular = new[]
+    {
+        Constants.Naturel,
+        Constants.Nouveau,
+        Constants.Necessaire,
+        Constants.Nerveux,
+        Constants.Naif,
+        Constants.Noble,
+        Constants.Nostalgique,
+        Constants.Nonchalant,
+        Constants.Negatif,
+        Constants.Nombreux,
+        Constants.Notoire,
+        Constants.Negligent,
+        Constants.Narquois,
+        Constants.Nuance,
+        Constants.Novateur,
+        Constants.Nocturne,
+        Constants.Neutre,
+        Constants.Nomade,
+        Constants.Nefaste,
+        Constants.Nuisible,
+    };
 }
