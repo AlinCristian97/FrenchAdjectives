@@ -13,6 +13,7 @@ internal static partial class AdjectiveRepository
     private const string FileExtension = ".json";
 
     public static readonly IReadOnlyList<string> All;
+    public static readonly IReadOnlyList<string> All_Popular;
     private static readonly IReadOnlyDictionary<char, IReadOnlyList<string>> LetterMap;
 
     static AdjectiveRepository()
@@ -46,6 +47,34 @@ internal static partial class AdjectiveRepository
             .Concat(X)
             .Concat(Y)
             .Concat(Z)
+            .ToArray();
+
+        All_Popular = A_Popular
+            .Concat(B_Popular)
+            .Concat(C_Popular)
+            .Concat(D_Popular)
+            .Concat(E_Popular)
+            .Concat(F_Popular)
+            .Concat(G_Popular)
+            .Concat(H_Popular)
+            .Concat(I_Popular)
+            .Concat(J_Popular)
+            .Concat(K_Popular)
+            .Concat(L_Popular)
+            .Concat(M_Popular)
+            .Concat(N_Popular)
+            .Concat(O_Popular)
+            .Concat(P_Popular)
+            .Concat(Q_Popular)
+            .Concat(R_Popular)
+            .Concat(S_Popular)
+            .Concat(T_Popular)
+            .Concat(U_Popular)
+            .Concat(V_Popular)
+            .Concat(W_Popular)
+            .Concat(X_Popular)
+            .Concat(Y_Popular)
+            .Concat(Z_Popular)
             .ToArray();
 
         LetterMap = new Dictionary<char, IReadOnlyList<string>>(26)

@@ -13,6 +13,7 @@ namespace FrenchAdjectives
                 Console.WriteLine("1) Mot aléatoire");
                 Console.WriteLine("2) Mot aléatoire par lettre");
                 Console.WriteLine("3) Entrer un mot");
+                Console.WriteLine("4) Mot aléatoire (adjectifs populaires uniquement)  ^_^");
                 Console.WriteLine("Q) Quitter");
 
                 var choice = Console.ReadLine()?.Trim();
@@ -94,6 +95,21 @@ namespace FrenchAdjectives
                     continue;
                 }
 
+                if (choice == "4")
+                {
+                    var popular = AdjectiveRepository.All_Popular;
+                    if (popular.Count == 0)
+                    {
+                        Console.WriteLine("Aucun mot populaire disponible.\n");
+                        continue;
+                    }
+
+                    var word = popular[Random.Shared.Next(popular.Count)];
+                    DisplayWordWithMetadata(word);
+
+                    continue;
+                }
+
                 Console.WriteLine("Choix invalide.\n");
             }
         }
@@ -102,6 +118,15 @@ namespace FrenchAdjectives
         {
             Console.WriteLine(Constants.LongDivider);
             PrintColoredWord(word);
+
+            if (AdjectiveRepository.All_Popular.Contains(word, StringComparer.OrdinalIgnoreCase))
+            {
+                var previous = Console.ForegroundColor;
+                Console.ForegroundColor = ConsoleColor.DarkYellow;
+                Console.Write(" (populaire)");
+                Console.ForegroundColor = previous;
+            }
+
             Console.WriteLine();
             Console.WriteLine(Constants.ShortDivider);
             PrintDescription(word);
