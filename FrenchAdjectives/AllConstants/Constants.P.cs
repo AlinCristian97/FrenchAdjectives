@@ -49,4 +49,19 @@ public partial class Constants
     public const string Portatif = "portatif";
     public const string Posthume = "posthume";
     public const string Prefere = "préféré";
+    public const string Passionne = "passionné";
+    public const string Patient = "patient";
+    public const string Pathetique = "pathétique";
+    public const string Pedant = "pédant";
+    public const string Peremptoire = "péremptoire";
+    public const string Perspicace = "perspicace";
+    public const string Pertinent = "pertinent";
+    public const string Pessimiste = "pessimiste";
+    public const string Pieux = "pieux";
+    public const string Plaintif = "plaintif";
+    public const string Poignant = "poignant";
+    public const string Pompeux = "pompeux";
+    public const string Pragmatique = "pragmatique";
+    public const string Pretentieux = "prétentieux";
+    public const string Pudique = "pudique";
 }
