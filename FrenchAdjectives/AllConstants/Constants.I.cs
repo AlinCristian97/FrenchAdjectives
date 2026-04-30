@@ -51,4 +51,19 @@ public partial class Constants
     public const string Irritable = "irritable";
     public const string Immateriel = "immatériel";
     public const string Incassable = "incassable";
+    public const string Idealiste = "idéaliste";
+    public const string Ignorant = "ignorant";
+    public const string Illimite = "illimité";
+    public const string Imaginatif = "imaginatif";
+    public const string Immense = "immense";
+    public const string Impartial = "impartial";
+    public const string Impatient = "impatient";
+    public const string Imprudent = "imprudent";
+    public const string Inaccessible = "inaccessible";
+    public const string Incoherent = "incohérent";
+    public const string Inepuisable = "inépuisable";
+    public const string Inevitable = "inévitable";
+    public const string Ingenieux = "ingénieux";
+    public const string Injuste = "injuste";
+    public const string Instable = "instable";
 }
