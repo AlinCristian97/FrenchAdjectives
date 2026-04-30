@@ -33,4 +33,19 @@ public partial class Constants
     public const string Mexicain = "mexicain";
     public const string Maladif = "maladif";
     public const string Malade = "malade";
+    public const string Malicieux = "malicieux";
+    public const string Malleable = "malléable";
+    public const string Melancolique = "mélancolique";
+    public const string Meticuleux = "méticuleux";
+    public const string Miserable = "misérable";
+    public const string Mefiant = "méfiant";
+    public const string Mordant = "mordant";
+    public const string Meritant = "méritant";
+    public const string Minutieux = "minutieux";
+    public const string Methodique = "méthodique";
+    public const string Menacant = "menaçant";
+    public const string Mediocre = "médiocre";
+    public const string Modeste = "modeste";
+    public const string Mobile = "mobile";
+    public const string Muscle = "musclé";
 }
