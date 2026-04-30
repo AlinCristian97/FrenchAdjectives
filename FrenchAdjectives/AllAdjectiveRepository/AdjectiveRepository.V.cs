@@ -38,4 +38,28 @@ internal static partial class AdjectiveRepository
         Constants.Volontaire,
         Constants.Vulnerable,
     };
+
+    public static readonly IReadOnlyList<string> V_Popular = new[]
+    {
+        Constants.Vrai,
+        Constants.Vieux,
+        Constants.Violent,
+        Constants.Vivant,
+        Constants.Vif,
+        Constants.Veritable,
+        Constants.Vulnerable,
+        Constants.Vaniteux,
+        Constants.Valeureux,
+        Constants.Vigilant,
+        Constants.Vigoureux,
+        Constants.Visionnaire,
+        Constants.Vertueux,
+        Constants.Volontaire,
+        Constants.Vehement,
+        Constants.Venimeux,
+        Constants.Vindicatif,
+        Constants.Volage,
+        Constants.Vain,
+        Constants.Visible,
+    };
 }
