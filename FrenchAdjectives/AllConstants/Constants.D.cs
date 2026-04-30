@@ -39,4 +39,19 @@ public partial class Constants
     public const string Disponible = "disponible";
     public const string Desireux = "désireux";
     public const string Desireuse = "désireuse";
+    public const string Debordant = "débordant";
+    public const string Deconcertant = "déconcertant";
+    public const string Defavorable = "défavorable";
+    public const string Delirant = "délirant";
+    public const string Dense = "dense";
+    public const string Deprimant = "déprimant";
+    public const string Desastreux = "désastreux";
+    public const string Desinvolte = "désinvolte";
+    public const string Desordonne = "désordonné";
+    public const string Detestable = "détestable";
+    public const string Devastateur = "dévastateur";
+    public const string Discutable = "discutable";
+    public const string Dominant = "dominant";
+    public const string Depaysant = "dépaysant";
+    public const string Demesure = "démesuré";
 }
