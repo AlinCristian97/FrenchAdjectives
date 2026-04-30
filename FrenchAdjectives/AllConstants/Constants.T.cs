@@ -19,4 +19,19 @@ public partial class Constants
     public const string Termine = "terminé";
     public const string Terminee = "terminée";
     public const string Talentueux = "talentueux";
+    public const string Tenace = "tenace";
+    public const string Timide = "timide";
+    public const string Tolerant = "tolérant";
+    public const string Tourmente = "tourmenté";
+    public const string Traditionnel = "traditionnel";
+    public const string Tragique = "tragique";
+    public const string Tranchant = "tranchant";
+    public const string Turbulent = "turbulent";
+    public const string Tyrannique = "tyrannique";
+    public const string Temoignant = "témoignant";
+    public const string Tendu = "tendu";
+    public const string Timbre = "timbré";
+    public const string Tortueux = "tortueux";
+    public const string Triomphant = "triomphant";
+    public const string Truculent = "truculent";
 }
