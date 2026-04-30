@@ -18,4 +18,19 @@ public partial class Constants
     public const string Vide = "vide";
     public const string Volumineux = "volumineux";
     public const string Vieille = "vieille";
+    public const string Valeureux = "valeureux";
+    public const string Vaniteux = "vaniteux";
+    public const string Varie = "varié";
+    public const string Vehement = "véhément";
+    public const string Venimeux = "venimeux";
+    public const string Vertueux = "vertueux";
+    public const string Vigilant = "vigilant";
+    public const string Vigoureux = "vigoureux";
+    public const string Vil = "vil";
+    public const string Vindicatif = "vindicatif";
+    public const string Visionnaire = "visionnaire";
+    public const string Vociferant = "vociférant";
+    public const string Volage = "volage";
+    public const string Volontaire = "volontaire";
+    public const string Vulnerable = "vulnérable";
 }
