@@ -22,4 +22,7 @@ public partial class Constants
     public const string Use = "usé";
     public const string Utilitaire = "utilitaire";
     public const string Umbrageux = "ombrageux";
+    public const string Universel = "universel";
+    public const string Ulcere = "ulcéré";
+    public const string Usurpe = "usurpé";
 }

@@ -26,5 +26,8 @@ internal static partial class AdjectiveRepository
         Constants.Use,
         Constants.Utilitaire,
         Constants.Umbrageux,
+        Constants.Universel,
+        Constants.Ulcere,
+        Constants.Usurpe,
     };
 }
