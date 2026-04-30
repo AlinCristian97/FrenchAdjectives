@@ -32,4 +32,28 @@ internal static partial class AdjectiveRepository
         Constants.Odieux,
         Constants.Onctueux,
     };
+
+    public static readonly IReadOnlyList<string> O_Popular = new[]
+    {
+        Constants.Original,
+        Constants.Optimiste,
+        Constants.Ouvert,
+        Constants.Objectif,
+        Constants.Ordinaire,
+        Constants.Obstine,
+        Constants.Orgueilleux,
+        Constants.Officiel,
+        Constants.Optimal,
+        Constants.Odieux,
+        Constants.Offensant,
+        Constants.Oppressant,
+        Constants.Obsolete,
+        Constants.Obscur,
+        Constants.Ose,
+        Constants.Opportuniste,
+        Constants.Oisif,
+        Constants.Ombrageux,
+        Constants.Opaque,
+        Constants.Onctueux,
+    };
 }
