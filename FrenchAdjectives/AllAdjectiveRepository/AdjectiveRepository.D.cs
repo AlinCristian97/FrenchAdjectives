@@ -59,4 +59,28 @@ internal static partial class AdjectiveRepository
         Constants.Depaysant,
         Constants.Demesure,
     };
+
+    public static readonly IReadOnlyList<string> D_Popular = new[]
+    {
+        Constants.Drole,
+        Constants.Doux,
+        Constants.Dynamique,
+        Constants.Determine,
+        Constants.Devoue,
+        Constants.Diligent,
+        Constants.Discret,
+        Constants.Disponible,
+        Constants.Decisif,
+        Constants.Defiant,
+        Constants.Dangereux,
+        Constants.Difficile,
+        Constants.Dramatique,
+        Constants.Dominant,
+        Constants.Deprimant,
+        Constants.Desastreux,
+        Constants.Desinvolte,
+        Constants.Deconcertant,
+        Constants.Dubitatif,
+        Constants.Dense,
+    };
 }
