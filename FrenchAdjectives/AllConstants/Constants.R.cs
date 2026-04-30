@@ -27,4 +27,19 @@ public partial class Constants
     public const string Regulier = "régulier";
     public const string Renouvele = "renouvelé";
     public const string Renversante = "renversante";
+    public const string Rancunier = "rancunier";
+    public const string Rassurant = "rassurant";
+    public const string Rebelle = "rebelle";
+    public const string Recalcitrant = "récalcitrant";
+    public const string Reflechi = "réfléchi";
+    public const string Remarquable = "remarquable";
+    public const string Reposant = "reposant";
+    public const string Repugnant = "répugnant";
+    public const string Resolu = "résolu";
+    public const string Retors = "retors";
+    public const string Revelateur = "révélateur";
+    public const string Romantique = "romantique";
+    public const string Rustique = "rustique";
+    public const string Rageur = "rageur";
+    public const string Rayonnant = "rayonnant";
 }
