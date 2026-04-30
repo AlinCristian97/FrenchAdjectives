@@ -58,4 +58,28 @@ internal static partial class AdjectiveRepository
         Constants.Erudit,
         Constants.Estimable,
     };
+
+    public static readonly IReadOnlyList<string> E_Popular = new[]
+    {
+        Constants.Energique,
+        Constants.Excellent,
+        Constants.Etrange,
+        Constants.Evident,
+        Constants.Elegant,
+        Constants.Emouvant,
+        Constants.Enthousiaste,
+        Constants.Essentiel,
+        Constants.Etonnant,
+        Constants.Efficace,
+        Constants.Effrayant,
+        Constants.Empathique,
+        Constants.Engage,
+        Constants.Equilibre,
+        Constants.Epuisant,
+        Constants.Excessif,
+        Constants.Extraordinaire,
+        Constants.Ephemere,
+        Constants.Equitable,
+        Constants.Erudit,
+    };
 }
