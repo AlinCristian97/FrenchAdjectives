@@ -11,5 +11,7 @@ internal static partial class AdjectiveRepository
         Constants.Kitschable,
         Constants.Kilometrique,
         Constants.Karmique,
+        Constants.Kaleidoscopique,
+        Constants.Kleptomane
     };
 }

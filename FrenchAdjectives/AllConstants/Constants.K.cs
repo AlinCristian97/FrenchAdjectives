@@ -7,4 +7,6 @@ public partial class Constants
     public const string Kitschable = "kitschable";
     public const string Kilometrique = "kilométrique";
     public const string Karmique = "karmique";
+    public const string Kaleidoscopique = "kaléidoscopique";
+    public const string Kleptomane = "kleptomane";
 }
