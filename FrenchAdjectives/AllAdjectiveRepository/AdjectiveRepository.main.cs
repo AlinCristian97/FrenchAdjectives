@@ -7,43 +7,48 @@ namespace FrenchAdjectives.AllAdjectiveRepository;
 
 internal static partial class AdjectiveRepository
 {
-    private static readonly Dictionary<string, WordMetadata> _cache = new();
-    private static readonly Random _random = new();
+    private static readonly Dictionary<string, WordMetadata> _cache;
+    private static readonly Random _random;
     private const string BaseFolderName = "Sentences";
     private const string FileExtension = ".json";
 
-    // Super-list that contains every letter list
-    public static readonly IReadOnlyList<string> All = A
-        .Concat(B)
-        .Concat(C)
-        .Concat(D)
-        .Concat(E)
-        .Concat(F)
-        .Concat(G)
-        .Concat(H)
-        .Concat(I)
-        .Concat(J)
-        .Concat(K)
-        .Concat(L)
-        .Concat(M)
-        .Concat(N)
-        .Concat(O)
-        .Concat(P)
-        .Concat(Q)
-        .Concat(R)
-        .Concat(S)
-        .Concat(T)
-        .Concat(U)
-        .Concat(V)
-        .Concat(W)
-        .Concat(X)
-        .Concat(Y)
-        .Concat(Z)
-        .ToArray();
+    public static readonly IReadOnlyList<string> All;
+    private static readonly IReadOnlyDictionary<char, IReadOnlyList<string>> LetterMap;
 
-    private static IReadOnlyDictionary<char, IReadOnlyList<string>> BuildLetterMap()
+    static AdjectiveRepository()
     {
-        return new Dictionary<char, IReadOnlyList<string>>(26)
+        _cache = new Dictionary<string, WordMetadata>();
+        _random = new Random();
+
+        All = A
+            .Concat(B)
+            .Concat(C)
+            .Concat(D)
+            .Concat(E)
+            .Concat(F)
+            .Concat(G)
+            .Concat(H)
+            .Concat(I)
+            .Concat(J)
+            .Concat(K)
+            .Concat(L)
+            .Concat(M)
+            .Concat(N)
+            .Concat(O)
+            .Concat(P)
+            .Concat(Q)
+            .Concat(R)
+            .Concat(S)
+            .Concat(T)
+            .Concat(U)
+            .Concat(V)
+            .Concat(W)
+            .Concat(X)
+            .Concat(Y)
+            .Concat(Z)
+            .ToArray();
+
+        LetterMap = new Dictionary<char, IReadOnlyList<string>>(26)
         {
             [Constants.A[0]] = A,
             [Constants.B[0]] = B,
@@ -79,7 +84,7 @@ internal static partial class AdjectiveRepository
         result = null;
         var key = char.ToLowerInvariant(letter);
 
-        if (!BuildLetterMap().TryGetValue(key, out var list) || list == null || list.Count == 0)
+        if (!LetterMap.TryGetValue(key, out var list) || list == null || list.Count == 0)
         {
             return false;
         }
