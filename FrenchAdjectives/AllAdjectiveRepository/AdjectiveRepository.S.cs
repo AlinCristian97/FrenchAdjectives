@@ -75,4 +75,28 @@ internal static partial class AdjectiveRepository
         Constants.Sublime,
         Constants.Suffisant,
     };
+
+    public static readonly IReadOnlyList<string> S_Popular = new[]
+    {
+        Constants.Simple,
+        Constants.Sympathique,
+        Constants.Sincere,
+        Constants.Seul,
+        Constants.Sombre,
+        Constants.Special,
+        Constants.Serein,
+        Constants.Sensible,
+        Constants.Spontane,
+        Constants.Surprenant,
+        Constants.Sceptique,
+        Constants.Sarcastique,
+        Constants.Sociable,
+        Constants.Solidaire,
+        Constants.Stoique,
+        Constants.Subtil,
+        Constants.Stupide,
+        Constants.Sublime,
+        Constants.Soucieux,
+        Constants.Strict,
+    };
 }
