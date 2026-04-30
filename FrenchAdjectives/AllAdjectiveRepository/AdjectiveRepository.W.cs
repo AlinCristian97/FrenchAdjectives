@@ -12,4 +12,11 @@ internal static partial class AdjectiveRepository
         Constants.Western,
         Constants.Witty,
     };
+
+    public static readonly IReadOnlyList<string> W_Popular = new[]
+    {
+        Constants.Western,
+        Constants.Web,
+        Constants.Witty,
+    };
 }
