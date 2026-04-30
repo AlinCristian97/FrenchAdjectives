@@ -55,4 +55,19 @@ public partial class Constants
     public const string Satisfait = "satisfait";
     public const string Sponsorise = "sponsorisé";
     public const string Strict = "strict";
+    public const string Sarcastique = "sarcastique";
+    public const string Sauvage = "sauvage";
+    public const string Seraphique = "séraphique";
+    public const string Sobre = "sobre";
+    public const string Sociable = "sociable";
+    public const string Solidaire = "solidaire";
+    public const string Sordide = "sordide";
+    public const string Soucieux = "soucieux";
+    public const string Souverain = "souverain";
+    public const string Sterile = "stérile";
+    public const string Stoique = "stoïque";
+    public const string Strident = "strident";
+    public const string Stupide = "stupide";
+    public const string Sublime = "sublime";
+    public const string Suffisant = "suffisant";
 }
