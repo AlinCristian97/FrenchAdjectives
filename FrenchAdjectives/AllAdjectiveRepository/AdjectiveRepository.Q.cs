@@ -12,5 +12,9 @@ internal static partial class AdjectiveRepository
         Constants.Querelleux,
         Constants.Questionnable,
         Constants.Quotidien,
+        Constants.Qualifie,
+        Constants.Qualitatif,
+        Constants.Quintessentiel,
+        Constants.Quiescent,
     };
 }

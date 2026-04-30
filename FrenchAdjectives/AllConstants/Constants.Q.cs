@@ -8,4 +8,8 @@ public partial class Constants
     public const string Querelleux = "querelleux";
     public const string Questionnable = "questionnable";
     public const string Quotidien = "quotidien";
+    public const string Qualifie = "qualifié";
+    public const string Qualitatif = "qualitatif";
+    public const string Quintessentiel = "quintessentiel";
+    public const string Quiescent = "quiescent";
 }
