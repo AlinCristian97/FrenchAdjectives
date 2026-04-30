@@ -30,4 +30,22 @@ internal static partial class AdjectiveRepository
         Constants.Ulcere,
         Constants.Usurpe,
     };
+
+    public static readonly IReadOnlyList<string> U_Popular = new[]
+    {
+        Constants.Unique,
+        Constants.Urgent,
+        Constants.Utile,
+        Constants.Ultime,
+        Constants.Universel,
+        Constants.Urbain,
+        Constants.Unanime,
+        Constants.Utopique,
+        Constants.Usuel,
+        Constants.Uniforme,
+        Constants.Ulcere,
+        Constants.Utilitaire,
+        Constants.Unilateral,
+        Constants.Ubiquitaire,
+    };
 }
