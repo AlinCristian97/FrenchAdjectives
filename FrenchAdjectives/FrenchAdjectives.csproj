@@ -9,7 +9,6 @@
 
   <ItemGroup>
     <Folder Include="Utils\" />
-    <Folder Include="Sentences\B\" />
     <Folder Include="Sentences\C\" />
     <Folder Include="Sentences\D\" />
     <Folder Include="Sentences\E\" />

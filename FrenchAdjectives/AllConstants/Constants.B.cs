@@ -18,4 +18,19 @@ public partial class Constants
     public const string Bon = "bon";
     public const string Bonne = "bonne";
     public const string Bruyant = "bruyant";
+    public const string Badin = "badin";
+    public const string Benevole = "bénévole";
+    public const string Bienséant = "bienséant";
+    public const string Bilingue = "bilingue";
+    public const string Boheme = "bohème";
+    public const string Bondissant = "bondissant";
+    public const string Borne = "borné";
+    public const string Bouillant = "bouillant";
+    public const string Bref = "bref";
+    public const string Brise = "brisé";
+    public const string Bucolique = "bucolique";
+    public const string Benin = "bénin";
+    public const string Belliqueux = "belliqueux";
+    public const string Banal = "banal";
+    public const string Blessant = "blessant";
 }
