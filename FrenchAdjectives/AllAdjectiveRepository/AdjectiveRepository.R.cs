@@ -47,4 +47,28 @@ internal static partial class AdjectiveRepository
         Constants.Rageur,
         Constants.Rayonnant,
     };
+
+    public static readonly IReadOnlyList<string> R_Popular = new[]
+    {
+        Constants.Rapide,
+        Constants.Riche,
+        Constants.Rare,
+        Constants.Ridicule,
+        Constants.Realiste,
+        Constants.Remarquable,
+        Constants.Respectueux,
+        Constants.Rebelle,
+        Constants.Romantique,
+        Constants.Rationnel,
+        Constants.Reflechi,
+        Constants.Rassurant,
+        Constants.Redoutable,
+        Constants.Resolu,
+        Constants.Rancunier,
+        Constants.Rageur,
+        Constants.Rayonnant,
+        Constants.Rigoureux,
+        Constants.Raffine,
+        Constants.Repugnant,
+    };
 }
