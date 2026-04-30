@@ -49,4 +49,28 @@ internal static partial class AdjectiveRepository
         Constants.Frivole,
         Constants.Fulgurant,
     };
+
+    public static readonly IReadOnlyList<string> F_Popular = new[]
+    {
+        Constants.Facile,
+        Constants.Faible,
+        Constants.Fort,
+        Constants.Faux,
+        Constants.Fier,
+        Constants.Fidele,
+        Constants.Fatigue,
+        Constants.Familier,
+        Constants.Fascinant,
+        Constants.Favorable,
+        Constants.Frequent,
+        Constants.Franc,
+        Constants.Fragile,
+        Constants.Flexible,
+        Constants.Frustrant,
+        Constants.Fiable,
+        Constants.Ferme,
+        Constants.Feroce,
+        Constants.Fantastique,
+        Constants.Fougueux,
+    };
 }
