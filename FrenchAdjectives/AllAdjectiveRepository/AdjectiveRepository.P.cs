@@ -69,4 +69,28 @@ internal static partial class AdjectiveRepository
         Constants.Pretentieux,
         Constants.Pudique,
     };
+
+    public static readonly IReadOnlyList<string> P_Popular = new[]
+    {
+        Constants.Petit,
+        Constants.Parfait,
+        Constants.Pauvre,
+        Constants.Possible,
+        Constants.Proche,
+        Constants.Puissant,
+        Constants.Passionne,
+        Constants.Patient,
+        Constants.Prudent,
+        Constants.Precis,
+        Constants.Profond,
+        Constants.Pessimiste,
+        Constants.Pretentieux,
+        Constants.Pragmatique,
+        Constants.Pertinent,
+        Constants.Perspicace,
+        Constants.Poignant,
+        Constants.Prestigieux,
+        Constants.Pathetique,
+        Constants.Pedant,
+    };
 }
