@@ -39,4 +39,28 @@ internal static partial class AdjectiveRepository
         Constants.Lapidaire,
         Constants.Litigieux,
     };
+
+    public static readonly IReadOnlyList<string> L_Popular = new[]
+    {
+        Constants.Libre,
+        Constants.Logique,
+        Constants.Loyal,
+        Constants.Leger,
+        Constants.Lumineux,
+        Constants.Lointain,
+        Constants.Lourd,
+        Constants.Lucide,
+        Constants.Lamentable,
+        Constants.Legendaire,
+        Constants.Limpide,
+        Constants.Loquace,
+        Constants.Lugubre,
+        Constants.Laborieux,
+        Constants.Langoureux,
+        Constants.Latent,
+        Constants.Legitime,
+        Constants.Local,
+        Constants.Lyrique,
+        Constants.Limite,
+    };
 }

@@ -30,4 +30,18 @@ internal static partial class AdjectiveRepository
         Constants.Jaseur,
         Constants.Joufflu,
     };
+
+    public static readonly IReadOnlyList<string> J_Popular = new[]
+    {
+        Constants.Jeune,
+        Constants.Joli,
+        Constants.Joyeux,
+        Constants.Juste,
+        Constants.Jaloux,
+        Constants.Jovial,
+        Constants.Joueur,
+        Constants.Judicieux,
+        Constants.Juvenile,
+        Constants.Jubilant,
+    };
 }

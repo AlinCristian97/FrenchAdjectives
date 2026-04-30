@@ -14,4 +14,12 @@ internal static partial class AdjectiveRepository
         Constants.Kaleidoscopique,
         Constants.Kleptomane
     };
+
+    public static readonly IReadOnlyList<string> K_Popular = new[]
+    {
+        Constants.Kitsch,
+        Constants.Karmique,
+        Constants.Kaleidoscopique,
+        Constants.Kleptomane,
+    };
 }
