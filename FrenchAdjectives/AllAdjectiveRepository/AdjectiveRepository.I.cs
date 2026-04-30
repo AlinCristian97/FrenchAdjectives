@@ -71,4 +71,28 @@ internal static partial class AdjectiveRepository
         Constants.Injuste,
         Constants.Instable,
     };
+
+    public static readonly IReadOnlyList<string> I_Popular = new[]
+    {
+        Constants.Important,
+        Constants.Intelligent,
+        Constants.Interessant,
+        Constants.Incroyable,
+        Constants.Impossible,
+        Constants.Innocent,
+        Constants.Ideal,
+        Constants.Inutile,
+        Constants.Indispensable,
+        Constants.Impressionnant,
+        Constants.Impatient,
+        Constants.Injuste,
+        Constants.Intense,
+        Constants.Ironique,
+        Constants.Inspirant,
+        Constants.Ingenieux,
+        Constants.Inoubliable,
+        Constants.Instable,
+        Constants.Irresistible,
+        Constants.Imaginatif,
+    };
 }
