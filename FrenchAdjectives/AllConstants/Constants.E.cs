@@ -38,4 +38,19 @@ public partial class Constants
     public const string Evocateur = "évocateur";
     public const string Extravagant = "extravagant";
     public const string Espagnol = "espagnol";
+    public const string Eclaire = "éclairé";
+    public const string Eclatant = "éclatant";
+    public const string Efficace = "efficace";
+    public const string Effrayant = "effrayant";
+    public const string Elabore = "élaboré";
+    public const string Embarrassant = "embarrassant";
+    public const string Eminent = "éminent";
+    public const string Empathique = "empathique";
+    public const string Endurant = "endurant";
+    public const string Engage = "engagé";
+    public const string Envieux = "envieux";
+    public const string Epuisant = "épuisant";
+    public const string Equilibre = "équilibré";
+    public const string Erudit = "érudit";
+    public const string Estimable = "estimable";
 }
