@@ -27,4 +27,19 @@ public partial class Constants
     public const string Abbandoned = "abbandoned";
     public const string Arrete = "arrêté";
     public const string Agacant = "agaçant";
+    public const string Abondant = "abondant";
+    public const string Absurde = "absurde";
+    public const string Accessible = "accessible";
+    public const string Agile = "agile";
+    public const string Altruiste = "altruiste";
+    public const string Ambitieux = "ambitieux";
+    public const string Ample = "ample";
+    public const string Apaisant = "apaisant";
+    public const string Arrogant = "arrogant";
+    public const string Astucieux = "astucieux";
+    public const string Avide = "avide";
+    public const string Avenant = "avenant";
+    public const string Affable = "affable";
+    public const string Alerte = "alerte";
+    public const string Alarmant = "alarmant";
 }
