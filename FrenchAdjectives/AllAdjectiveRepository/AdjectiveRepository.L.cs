@@ -62,5 +62,6 @@ internal static partial class AdjectiveRepository
         Constants.Local,
         Constants.Lyrique,
         Constants.Limite,
+        Constants.Long
     };
 }
