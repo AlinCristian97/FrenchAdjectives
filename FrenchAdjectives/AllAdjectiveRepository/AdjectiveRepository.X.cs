@@ -12,4 +12,10 @@ internal static partial class AdjectiveRepository
         Constants.Xylographique,
         Constants.Xylophonique,
     };
+
+    public static readonly IReadOnlyList<string> X_Popular = new[]
+    {
+        Constants.Xenophile,
+        Constants.Xenophobe,
+    };
 }
