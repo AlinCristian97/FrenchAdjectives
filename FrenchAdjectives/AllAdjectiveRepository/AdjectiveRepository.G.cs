@@ -32,4 +32,28 @@ internal static partial class AdjectiveRepository
         Constants.Glorieux,
         Constants.Gourmand,
     };
+
+    public static readonly IReadOnlyList<string> G_Popular = new[]
+    {
+        Constants.Gentil,
+        Constants.Grand,
+        Constants.Gros,
+        Constants.Grave,
+        Constants.Generueux,
+        Constants.Gracieux,
+        Constants.Genant,
+        Constants.Grognon,
+        Constants.Gourmand,
+        Constants.Glorieux,
+        Constants.Galant,
+        Constants.Gregaire,
+        Constants.Grandiose,
+        Constants.Glacial,
+        Constants.Grotesque,
+        Constants.Gauche,
+        Constants.Gaillard,
+        Constants.Guerrier,
+        Constants.Gigantesque,
+        Constants.Givre,
+    };
 }
