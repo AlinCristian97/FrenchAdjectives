@@ -38,4 +38,28 @@ internal static partial class AdjectiveRepository
         Constants.Banal,
         Constants.Blessant,
     };
+
+    public static readonly IReadOnlyList<string> B_Popular = new[]
+    {
+        Constants.Beau,
+        Constants.Bon,
+        Constants.Brave,
+        Constants.Brillant,
+        Constants.Bienveillant,
+        Constants.Bizarre,
+        Constants.Bruyant,
+        Constants.Brutal,
+        Constants.Banal,
+        Constants.Blessant,
+        Constants.Bilingue,
+        Constants.Benin,
+        Constants.Belliqueux,
+        Constants.Bucolique,
+        Constants.Borne,
+        Constants.Bref,
+        Constants.Bouillant,
+        Constants.Benevole,
+        Constants.Boheme,
+        Constants.Badin,
+    };
 }

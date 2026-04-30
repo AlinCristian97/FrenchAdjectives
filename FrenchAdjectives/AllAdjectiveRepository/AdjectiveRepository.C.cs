@@ -58,4 +58,28 @@ internal static partial class AdjectiveRepository
         Constants.Credible,
         Constants.Cynique,
     };
+
+    public static readonly IReadOnlyList<string> C_Popular = new[]
+    {
+        Constants.Calme,
+        Constants.Chaleureux,
+        Constants.Charmant,
+        Constants.Competent,
+        Constants.Compatissant,
+        Constants.Courageux,
+        Constants.Curieux,
+        Constants.Creatif,
+        Constants.Content,
+        Constants.Complexe,
+        Constants.Confiant,
+        Constants.Conscient,
+        Constants.Critique,
+        Constants.Cynique,
+        Constants.Capable,
+        Constants.Coherent,
+        Constants.Condescendant,
+        Constants.Celebre,
+        Constants.Commun,
+        Constants.Constant,
+    };
 }
