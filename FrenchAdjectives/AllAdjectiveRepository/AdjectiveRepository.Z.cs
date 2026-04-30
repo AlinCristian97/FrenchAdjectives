@@ -12,4 +12,11 @@ internal static partial class AdjectiveRepository
         Constants.Zonal,
         Constants.Zoologique,
     };
+
+    public static readonly IReadOnlyList<string> Z_Popular = new[]
+    {
+        Constants.Zen,
+        Constants.Zele,
+        Constants.Zigzagant,
+    };
 }
