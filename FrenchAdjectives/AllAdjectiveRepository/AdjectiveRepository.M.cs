@@ -53,4 +53,28 @@ internal static partial class AdjectiveRepository
         Constants.Mobile,
         Constants.Muscle,
     };
+
+    public static readonly IReadOnlyList<string> M_Popular = new[]
+    {
+        Constants.Magnifique,
+        Constants.Mechant,
+        Constants.Mignon,
+        Constants.Moderne,
+        Constants.Mysterieux,
+        Constants.Modeste,
+        Constants.Miserable,
+        Constants.Melancolique,
+        Constants.Malade,
+        Constants.Malicieux,
+        Constants.Menacant,
+        Constants.Mediocre,
+        Constants.Memorable,
+        Constants.Majestueux,
+        Constants.Meticuleux,
+        Constants.Mefiant,
+        Constants.Minutieux,
+        Constants.Methodique,
+        Constants.Mordant,
+        Constants.Magique,
+    };
 }
