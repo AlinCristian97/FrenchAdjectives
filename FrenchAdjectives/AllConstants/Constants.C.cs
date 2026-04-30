@@ -38,4 +38,19 @@ public partial class Constants
     public const string Complexe = "complexe";
     public const string Chaque = "chaque";
     public const string Condescendant = "condescendant";
+    public const string Capable = "capable";
+    public const string Capricieux = "capricieux";
+    public const string Charmant = "charmant";
+    public const string Chronique = "chronique";
+    public const string Civique = "civique";
+    public const string Clandestin = "clandestin";
+    public const string Coherent = "cohérent";
+    public const string Colossal = "colossal";
+    public const string Confiant = "confiant";
+    public const string Conscient = "conscient";
+    public const string Constant = "constant";
+    public const string Contemplatif = "contemplatif";
+    public const string Courant = "courant";
+    public const string Credible = "crédible";
+    public const string Cynique = "cynique";
 }
