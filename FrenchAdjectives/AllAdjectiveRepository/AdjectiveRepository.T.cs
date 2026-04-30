@@ -39,4 +39,28 @@ internal static partial class AdjectiveRepository
         Constants.Triomphant,
         Constants.Truculent,
     };
+
+    public static readonly IReadOnlyList<string> T_Popular = new[]
+    {
+        Constants.Triste,
+        Constants.Tranquille,
+        Constants.Timide,
+        Constants.Tendre,
+        Constants.Tolerant,
+        Constants.Talentueux,
+        Constants.Traditionnel,
+        Constants.Tragique,
+        Constants.Turbulent,
+        Constants.Tenace,
+        Constants.Typique,
+        Constants.Touchant,
+        Constants.Tourmente,
+        Constants.Tyrannique,
+        Constants.Trompeur,
+        Constants.Theatral,
+        Constants.Tendu,
+        Constants.Triomphant,
+        Constants.Taciturne,
+        Constants.Tranchant,
+    };
 }
